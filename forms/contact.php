@@ -14,3 +14,4 @@ if ($_POST) {
     echo 'Houve um problema ao enviar sua mensagem. Por favor, tente novamente mais tarde!';
   }
 }
+  // echo <a href="index.html" class="btn-get-started animate__animated animate__fadeInUp scrollto">Voltar</a>
