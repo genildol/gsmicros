@@ -121,6 +121,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   color: rgba(255, 255, 255, 0.8);
   z-index: 996;
+  background-color:#2980b9;
 }
 #topbar.topbar-scrolled {
   top: -60px;
