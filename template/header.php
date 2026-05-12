@@ -15,7 +15,7 @@
 <header id="header" class="fixed-top d-flex align-items-center ">
   <div class="container d-flex align-items-center justify-content-between">
 
-    <h6 class="logo"><a href="index.php" alt="GS Micros - Manutenção e Sistemas">GS MICROS</a></h6>
+    <h6 class="logo"><a href="?page=home" alt="GS Micros - Manutenção e Sistemas">GS MICROS</a></h6>
     <nav id="navbar" class="navbar">
       <ul>
         <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
@@ -27,7 +27,7 @@
             <li><a href="?page=blog#dicas">Treinamento de equipes (recepção / cadastro)</a></li>
             <li><a href="?page=blog#dicas">Padronização de fluxo de atendimento</a></li>
             <li><a href="?page=blog#dicas">Apoio ao faturamento SUS</a></li>
-            <li><a href="?page=blog">Blog - Conteúdos e Orientações</a></li>
+            <li><a href="?page=blog">BLOG - Conteúdos e Orientações</a></li>
           </ul>
         </li>
         <li><a class="nav-link scrollto" href="?page=home#faq">Dúvidas</a></li>

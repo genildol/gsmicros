@@ -1,4 +1,3 @@
-======= Hero Section =======
 <section id="hero" class="d-flex justify-cntent-center align-items-center">
   <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
 
@@ -145,18 +144,18 @@
       <div class="clients-slider swiper text-center">
         <h3> Alguns de nossos clientes</h3>
         <div class="swiper-wrapper align-items-center">
-          <div class="swiper-slide"><img src="assets/img/clients/afonsomad.jpg" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="assets/img/clients/laboratorio.jpg" class="img-fluid" alt="">
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/afonsomad.jpg" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/laboratorio.jpg" class="img-fluid" alt="">
           </div>
-          <div class="swiper-slide"><img src="assets/img/clients/bikeshop.jpeg" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="assets/img/clients/oabpe.png" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="assets/img/clients/clinfd.jpg" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="assets/img/clients/farmacenter.jpg" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="assets/img/clients/lladesivos.jfif" class="img-fluid" alt="">
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/bikeshop.jpeg" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/oabpe.png" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/clinfd.jpg" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/farmacenter.jpg" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/lladesivos.jfif" class="img-fluid" alt="">
           </div>
-          <div class="swiper-slide"><img src="assets/img/clients/papelariadel.jpg" class="img-fluid" alt="">
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/papelariadel.jpg" class="img-fluid" alt="">
           </div>
-          <div class="swiper-slide"><img src="assets/img/clients/maisaude.png" class="img-fluid" alt="">
+          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/maisaude.png" class="img-fluid" alt="">
           </div>
         </div>
         <div class="swiper-pagination"></div>
@@ -509,5 +508,3 @@
 </main><!-- End #main -->
 
 <!-- ======= Footer ======= -->
-
-
