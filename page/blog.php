@@ -58,7 +58,7 @@
                 <h2 class="entry-title">
                   <p>O que você encontrará aqui?</p>
                 </h2>
-                <h3><a href="?page=">Gestão de Processos Hospitalares</a></h3>
+                <h3><a href="?page=gestaoprohos">Gestão de Processos Hospitalares</a></h3>
 
                 <p>A organização dos processos internos influencia diretamente na qualidade do atendimento, no tempo de espera, na produtividade das equipes e até na redução de erros operacionais.</p>
 
@@ -66,13 +66,13 @@
                 <h6>Neste blog serão discutidos temas como:</h6>
 
                 <ul>
-                  <li>Organização de setores hospitalares</li>
-                  <li>Melhoria de fluxo de atendimento</li>
-                  <li>Controle de demandas</li>
-                  <li>Padronização de processos</li>
-                  <li>Comunicação entre equipes</li>
-                  <li>Redução de retrabalho</li>
-                  <li>Eficiência operacional na saúde</li>
+                  <li><a href="?page=gestaoprohos#organizacaosetores" id="organizacaosetores"> Organização de setores hospitalares</a></li>
+                  <li><a href="?page=gestaoprohos#fluxoatendimento" id="fluxoatendimento">Melhoria de fluxo de atendimento</a></li>
+                  <li><a href="?page=gestaoprohos#controledemandas" id="controledemandas"> Controle de demandas</a></li>
+                  <li><a href="?page=gestaoprohos#padronizacao" id="padronizacao"> Padronização de processos</a></li>
+                  <li><a href="?page=gestaoprohos#comunicacao" id="comunicacao"> Comunicação entre equipes</a></li>
+                  <li><a href="?page=gestaoprohos#retrabalho" id="retrabalho"> Redução de retrabalho</a></li>
+                  <li><a href="?page=gestaoprohos#eficienciaoperacional" id="eficienciaoperacional"> Eficiência operacional na saúde</a></li>
                 </ul>
 
                 <p>Também serão apresentados exemplos práticos baseados na rotina hospitalar, mostrando desafios reais enfrentados dentro das instituições e possíveis soluções utilizando tecnologia e gestão.</p>
@@ -90,15 +90,13 @@
                 <H6> Serão publicados conteúdos sobre:</H6>
 
                 <ul>
-                  <li>Sistemas hospitalares</li>
-                  <li>Infraestrutura de TI em hospitais</li>
-                  <li>Digitalização de processos</li>
-                  <li>Segurança da informação</li>
-                  <li>Organização de dados</li>
-                  <li>Automação de rotinas</li>
-                  <li>Tecnologia aplicada ao SUS</li>
-                  <li>erramentas que auxiliam no atendimento hospitalar</li>
-                  <li></li>
+                  <li><a href="?page=gestaoprohos#" id="">Infraestrutura de TI em hospitais</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Digitalização de processos</a></li>
+                  <li><a href="?page=gestaoprohos#" id=""> Segurança da informação</a></li>
+                  <li><a href="?page=gestaoprohos#" id=""> Organização de dados</a></li>
+                  <li><a href="?page=gestaoprohos#" id=""> Automação de rotinas</a></li>
+                  <li><a href="?page=gestaoprohos#" id=""> Tecnologia aplicada ao SUS</a></li>
+                  <li><a href="?page=gestaoprohos#" id=""> Ferramentas que auxiliam no atendimento hospitalar</a></li>
                 </ul>
                 <p>Além disso, o blog abordará como a tecnologia pode ajudar profissionais que possuem pouca familiaridade com informática, trazendo conteúdos simples, práticos e educativos.</p>
                 <hr>
@@ -112,17 +110,17 @@
                 <h6>Aqui serão discutidos conteúdos relacionados a:</h6>
 
                 <ul>
-                  <li>BPA</li>
-                  <li>APAC</li>
-                  <li>SIH</li>
-                  <li>SIGTAP</li>
-                  <li>CNES</li>
-                  <li>Sisreg</li>
-                  <li>Cadastros SUS</li>
-                  <li>Qualidade dos dados</li>
-                  <li>Registro correto de informações</li>
-                  <li>Indicadores hospitalares</li>
-                  <li>Importância da informação no SUS</li>
+                  <li><a href="?page=gestaoprohos#" id=""> BPA</a></li>
+                  <li><a href="?page=gestaoprohos#" id=""> APAC</a></li>
+                  <li><a href="?page=gestaoprohos#" id=""> SIH</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">SIGTAP</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">CNES</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Sisreg</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Cadastros SUS</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Qualidade dos dados</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Registro correto de informações</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Indicadores hospitalares</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Importância da informação no SUS</a></li>
                 </ul>
                 <P>O blog também irá explorar como dados bem organizados podem auxiliar na gestão, tomada de decisão e melhoria dos serviços de saúde.</P>
 
@@ -135,14 +133,14 @@
                 <h6>Por isso, este espaço também terá foco em:</h6>
 
                 <ul>
-                  <li>Capacitação de recepcionistas</li>
-                  <li>Orientação operacional</li>
-                  <li>Uso básico de computadores</li>
-                  <li>Boas práticas em atendimento</li>
-                  <li>Organização digital</li>
-                  <li>Suporte ao usuário</li>
-                  <li>Rotinas administrativas hospitalares</li>
-                  <li>Desenvolvimento profissional</li>
+                  <li><a href="?page=gestaoprohos#" id="">Capacitação de recepcionistas</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Orientação operacional</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Uso básico de computadores</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Boas práticas em atendimento</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Organização digital</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Suporte ao usuário</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Rotinas administrativas hospitalares</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Desenvolvimento profissional</a></li>
                 </ul>
                 <p>A ideia é tornar o conhecimento mais acessível para profissionais que lidam diariamente com sistemas e processos hospitalares.</p>
                 <hr>
@@ -155,14 +153,14 @@
                 <h6>Serão abordados temas como:</h6>
 
                 <ul>
-                  <li>Fluxo de pacientes</li>
-                  <li>Organização de atendimentos</li>
-                  <li>Comunicação entre setores</li>
-                  <li>Encaminhamentos</li>
-                  <li>Processos internos</li>
-                  <li>Gestão de filas</li>
-                  <li>Agilidade operacional</li>
-                  <li>Controle de demandas hospitalares</li>
+                  <li><a href="?page=gestaoprohos#" id="">Fluxo de pacientes</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Organização de atendimentos</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Comunicação entre setores</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Encaminhamentos</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Processos internos</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Gestão de filas</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Agilidade operacional</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Controle de demandas hospitalares</a></li>
                 </ul>
 
                 <p>O objetivo é mostrar como pequenas melhorias podem gerar grandes impactos na rotina hospitalar.</p>
@@ -174,13 +172,13 @@
                 <p>O cadastro correto do paciente é uma das bases do funcionamento do SUS. Informações inconsistentes podem afetar atendimentos, exames, regulação, faturamento e diversos outros processos.</p>
                 <h6>Aqui serão compartilhados conteúdos sobre:</h6>
                 <ul>
-                  <li>Cadastro de pacientes</li>
-                  <li>Cartão SUS</li>
-                  <li>CadSUS</li>
-                  <li>Atualização de dados</li>
-                  <li>Problemas frequentes no atendimento</li>
-                  <li>Impacto de dados inconsistentes</li>
-                  <li>Qualidade da informação no SUS</li>
+                  <li><a href="?page=gestaoprohos#" id="">Cadastro de pacientes</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Cartão SUS</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">CadSUS</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Atualização de dados</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Problemas frequentes no atendimento</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Impacto de dados inconsistentes</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Qualidade da informação no SUS</a></li>
                 </ul>
                 <p>Também serão apresentados conteúdos educativos para auxiliar profissionais que atuam diretamente no atendimento ao público.</p>
                 <hr>
@@ -192,16 +190,14 @@
                 <h6>Este blog também servirá como um espaço de apoio técnico e compartilhamento de conhecimento sobre:</h6>
 
                 <ul>
-                  <li>Suporte operacional</li>
-                  <li>Problemas comuns em sistemas hospitalares</li>
-                  <li>Dicas práticas de informática</li>
-                  <li>Organização de computadores hospitalares</li>
-                  <li>Acesso remoto</li>
-                  <li>Boas práticas de suporte</li>
-                  <li>Resolução de erros frequentes</li>
-                  <li>Orientação para usuários</li>
-                  <li></li>
-                  <li></li>
+                  <li><a href="?page=gestaoprohos#" id="">Suporte operacional</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Problemas comuns em sistemas hospitalares</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Dicas práticas de informática</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Organização de computadores hospitalares</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Acesso remoto</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Boas práticas de suporte</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Resolução de erros frequentes</a></li>
+                  <li><a href="?page=gestaoprohos#" id="">Orientação para usuários</a></li>
                 </ul>
                 <p>A proposta é aproximar a tecnologia da realidade hospitalar de forma clara, simples e objetiva. E assim contribuir para uma melhor experiência no atendimento aos pacientes.</p>
                 <hr>

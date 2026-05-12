@@ -1,4 +1,3 @@
-<!-- ======= Top Bar ======= -->
 <div id="topbar" class="fixed-top d-flex align-items-center ">
   <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
     <div class="contact-warning d-flex align-items-center ">
@@ -10,7 +9,18 @@
     </div>
   </div>
 </div>
-
+<div id="topbar" class="fixed-top d-flex align-items-center topbar-inner-pages">
+  <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
+      <div class="contact-info d-flex align-items-center">
+        <!-- <i class="bi bi-envelope-fill" alt="GS Micros - Manutenção e Sistemas"></i><a
+          href="#contact">contato@gsmicros.com.br</a> -->
+      </div>
+      <!-- <div class="cta d-none d-md-block">
+        <a href="#about" class="scrollto">Iniciar</a>
+      </div> -->
+        <h6 class="text-warning">Em desenvolvimento...</h6>
+    </div>
+</div>
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top d-flex align-items-center ">
   <div class="container d-flex align-items-center justify-content-between">

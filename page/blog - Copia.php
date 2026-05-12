@@ -1,6 +1,3 @@
-<body>
-
-  <!-- ======= Top Bar ======= -->
   <div id="topbar" class="fixed-top d-flex align-items-center topbar-inner-pages">
     <!-- <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
