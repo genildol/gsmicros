@@ -5,6 +5,7 @@
 
         <ol>
           <li><a href="?page=home">Home</a></li>
+          <li><a href="?page=blog">Voltar</a></li>
           <li>Blog GSMICROS</li>
         </ol>
         <h2>Gestão de Processos Hospitalares</h2>
@@ -716,14 +717,14 @@
               <h3 class="sidebar-title">Cursos em breve</h3>
               <div class="sidebar-item categories">
                 <ul>
-                  <li><a href="#">Introução a Informática <span></span></a></li>
-                  <li><a href="#">Atalhos e Dicas do Windows <span></span></a></li>
-                  <li><a href="#">Navegadores de Internet <span></span></a></li>
-                  <li><a href="#">Corrêio eletrônico <span></span></a></li>
-                  <li><a href="#">Microsoft Word <span></span></a></li>
-                  <li><a href="#">Microsoft Excel <span></span></a></li>
-                  <li><a href="#">Microsoft PowerPoint <span></span></a></li>
-                  <li><a href="#">Material didático <span></span></a></li>
+                  <li><a href="#">Coren<span></span></a></li>
+                  <li><a href="#">CRM<span></span></a></li>
+                  <li><a href="#">APAC<span></span></a></li>
+                  <li><a href="#">SISREG<span></span></a></li>
+                  <li><a href="#">Enfermagem<span></span></a></li>
+                  <li><a href="#">Notícias<span></span></a></li>
+                  <li><a href="#">Enfermagem em foco<span></span></a></li>
+                  <li><a href="#">Medicina<span></span></a></li>
                 </ul>
               </div><!-- End sidebar categories-->
 
@@ -785,20 +786,21 @@
                 <h3 class="sidebar-title">MinhasTags</h3>
                 <div class="sidebar-item tags">
                   <ul>
-                    <li><a href="#">App</a></li>
-                    <li><a href="#">TI</a></li>
-                    <li><a href="#">Computação </a></li>
+                    <li><a href="">TecnologiaHospitalar</a></li>
+                    <li><a href="#">CNES</a></li>
+                    <li><a href="#">IA/SUS</a></li>
                     <li><a href="#">Programação</a></li>
-                    <li><a href="#">Design</a></li>
-                    <li><a href="#">Computer</a></li>
-                    <li><a href="#">BD</a></li>
-                    <li><a href="#">Smart</a></li>
-                    <li><a href="#">Tips</a></li>
-                    <li><a href="#">Internet</a></li>
-                    <li><a href="#">tecnologia </a></li>
-                    <li><a href="#">PHP</a></li>
-                    <li><a href="#">IT</a></li>
-                    <li><a href="#">Windows</a></li>
+                    <li><a href="#">SIGTAP</a></li>
+                    <li><a href="#">SISAIH01</a></li>
+                    <li><a href="#">BPA</a></li>
+                    <li><a href="#">ProcessosHospitalares</a></li>
+                    <li><a href="#">Faturamento</a></li>
+                    <li><a href="#">SuporteHospitalar</a></li>
+                    <li><a href="#">SaúdeDigital</a></li>
+                    <li><a href="#">ProcessamentoSUS</a></li>
+                    <li><a href="#">IndicadoresHospitalares</a></li>
+                    <li><a href="#">FluxosHospitalares</a></li>
+                    <li><a href="#">SUS</a></li>
                   </ul>
                 </div><!-- End sidebar tags-->
 

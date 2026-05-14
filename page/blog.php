@@ -1,17 +1,4 @@
-  <div id="topbar" class="fixed-top d-flex align-items-center topbar-inner-pages">
-    <!-- <div class="container d-flex align-items-center justify-content-center justify-content-md-between">
-      <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope-fill" alt="GS Micros - Manutenção e Sistemas"></i><a
-          href="#contact">contato@gsmicros.com.br</a>
-      </div>
-      <div class="cta d-none d-md-block">
-        <a href="#about" class="scrollto">Iniciar</a>
-      </div>
-    </div> -->
-  </div>
-
   <main id="main">
-
     <!-- ======= Breadcrumbs ======= -->
     <section id="breadcrumbs" class="breadcrumbs">
       <div class="container">
@@ -241,10 +228,10 @@
                   <li><a href="#">CRM<span></span></a></li>
                   <li><a href="#">APAC<span></span></a></li>
                   <li><a href="#">SISREG<span></span></a></li>
-                  <li><a href="#"><span></span></a></li>
-                  <li><a href="#"><span></span></a></li>
-                  <li><a href="#"><span></span></a></li>
-                  <li><a href="#"><span></span></a></li>
+                  <li><a href="#">Enfermagem<span></span></a></li>
+                  <li><a href="#"><span>Notícias</span></a></li>
+                  <li><a href="#"><span>enfermagem em foco</span></a></li>
+                  <li><a href="#">Medicina<span></span></a></li>
                 </ul>
               </div><!-- End sidebar categories-->
 
