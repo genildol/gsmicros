@@ -24,7 +24,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="./assets/img/organizacaosetores.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/organizacaosetores.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title" id="organizacaosetores">
@@ -164,7 +164,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="./assets/img/fluxoatendimento.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/fluxoatendimento.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title" id="fluxoatendimento">
@@ -262,7 +262,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="./assets/img/controledemandas.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/controledemandas.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title" id="controledemandas">
@@ -351,7 +351,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="./assets/img/padronizacao.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/padronizacao.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title" id="padronizacao">
@@ -442,7 +442,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="./assets/img/comunicacao.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/comunicacao.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title" id="comunicacao">
@@ -540,7 +540,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="./assets/img/retrabalho.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/retrabalho.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title" id="retrabalho">
@@ -614,7 +614,7 @@
 
             <article class="entry">
               <div class="entry-img">
-                <img src="./assets/img/eficienciaoperacional.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/eficienciaoperacional.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title" id="eficienciaoperacional">

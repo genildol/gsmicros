@@ -5,13 +5,14 @@
     <div class="container">
 
       <ol>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="?page=home">Home</a></li>
         <li>
-          <h1>Error - Página não encontrada</h1>
+          <h1 class="text-danger"><strong> ERRO - Página não encontrada</strong></h1>
         </li>
+        
       </ol>
-      <h2>Essa página não foi encontrada</h2>
 
+        <h2>Essa página não foi encontrada</h2>
     </div>
   </section><!-- End Breadcrumbs -->
 

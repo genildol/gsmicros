@@ -32,11 +32,11 @@
         <li><a class="nav-link scrollto" href="?page=home#about">Sobre</a></li>
         <li class="dropdown"><a href="#services"><span>Serviços</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
-            <li><a href="?page=cnes">Implantação e suporte ao CadSUS</a></li>
-            <li><a href="?page=blog">Organização de processos hospitalares</a></li>
-            <li><a href="?page=blog#dicas">Treinamento de equipes (recepção / cadastro)</a></li>
-            <li><a href="?page=blog#dicas">Padronização de fluxo de atendimento</a></li>
-            <li><a href="?page=blog#dicas">Apoio ao faturamento SUS</a></li>
+            <li><a href="?page=implantacao">Implantação e Suporte ao CadSUS</a></li>
+            <li><a href="?page=processhosp">Organização de Processos hospitalares</a></li>
+            <li><a href="?page=treinamentoeqs">Treinamento de Equipes (recepção / cadastro)</a></li>
+            <li><a href="?page=gestaoadm">Gestão e Administração</a></li>
+            <li><a href="?page=apoio">Apoio ao Faturamento SUS</a></li>
             <li><a href="?page=blog">BLOG - Conteúdos e Orientações</a></li>
           </ul>
         </li>

@@ -24,12 +24,13 @@
 
               <div class="entry-img" id="informatica">
 
-                <img src="assets/img/bloglogo.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/bloglogo.png" alt="" class="img-fluid">
+                
               </div>
 
-              <h2 class="entry-title">
-                <a href="?page=">Gestão, Tecnologia e Conhecimento</a>
-              </h2>
+              <h1 class=" entry-title">
+                Gestão, Tecnologia e Conhecimento
+              </h1>
 
               <div class="entry-content">
                 <p>
