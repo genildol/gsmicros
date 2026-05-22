@@ -714,7 +714,7 @@
 
             <div class="sidebar">
 
-              <h3 class="sidebar-title">Cursos em breve</h3>
+              <h3 class="sidebar-title">Saiba mais</h3>
               <div class="sidebar-item categories">
                 <ul>
                   <li><a href="#">Coren<span></span></a></li>

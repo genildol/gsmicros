@@ -5,10 +5,11 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.html">Home</a></li>
-          <li>Blog GS Micros</li>
+          <li><a href="?page=home">Home</a></li>
+          <li><a href="?page=blog">Voltar</a></li>
+          <li>Blog GSMICROS</li>
         </ol>
-        <h2>IMPLANTAÇÃO DE SISTEMAS</h2>
+        <h2>O que é e para que serve o CADSUS WEB?</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -24,199 +25,11 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="../assets/img/saude/cnesus.jpg" alt="" class="img-fluid">
+                <img src="./assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
-                <a href="blog.html">CNES - Cadastro Nacional de Estabelecimentos de Saúde</a>
-              </h2>
-
-              <div class="entry-content">
-                <p>
-                  O CNES (Cadastro Nacional de Estabelecimentos de Saúde) é um sistema de registro e gestão de
-                  informações sobre estabelecimentos de saúde no Brasil. Ele é mantido pelo Ministério da Saúde e
-                  desempenha um papel fundamental na organização e controle do sistema de saúde do país. Aqui estão
-                  alguns pontos importantes sobre o CNES:
-                </p>
-
-                <ul>
-
-                  <li><strong>Registro de Estabelecimentos:</strong>
-                    <p>Permite o registro e a atualização de informações de hospitais,
-                      clínicas, postos de saúde e outros estabelecimentos de saúde em todo o país.</p>
-                  </li>
-                  <li> <strong>Planejamento e Gestão:</strong>
-                    <p>Ajuda na tomada de decisões estratégicas relacionadas à distribuição de
-                      recursos, planejamento de serviços de saúde e alocação de profissionais.</p>
-                  </li>
-
-                  <li><strong>Controle e Fiscalização:</strong>
-                    <p>Facilita a fiscalização e controle de estabelecimentos de saúde, garantindo
-                      que eles atendam a regulamentações e padrões de qualidade.</p>
-                  </li>
-                </ul>
-
-                <P>Em resumo, o CNES desempenha um papel fundamental na organização, planejamento e controle do sistema
-                  de saúde brasileiro. É uma ferramenta essencial para garantir o acesso a serviços de saúde de
-                  qualidade, a distribuição eficaz de recursos e a transparência no setor de saúde do país.
-                </P>
-
-            </article><!-- End blog entry -->
-
-            <article class="entry">
-
-              <div class="entry-img">
-                <img src="../assets/img/saude/sigtap.jpg" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="entry-title">
-                <a href="blog-single.html">SIGTAP - Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e
-                  OPM do SUS</a>
-              </h2>
-              <p>O SIGTAP, que significa Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e OPM do SUS,
-                é um sistema utilizado pelo Sistema Único de Saúde (SUS) no Brasil para gerenciar e padronizar
-                informações relacionadas a procedimentos médicos, medicamentos e órteses, próteses e materiais
-                especiais.</p>
-
-              <p>O SIGTAP é uma ferramenta essencial para a gestão eficiente e padronização de informações
-                relacionadas à saúde no sistema público de saúde brasileiro (SUS). Ele desempenha um papel crítico na
-                organização, controle de custos e transparência do sistema de saúde, beneficiando tanto os
-                profissionais de saúde quanto os pacientes.</p>
-
-              <p>Aqui estão os principais aspectos e funções do SIGTAP:</p>
-              <ul>
-                <li><strong> Padronização de Procedimentos:</strong>
-                  <p> Define códigos e valores para procedimentos médicos, medicamentos
-                    e órteses, próteses e materiais especiais, garantindo a uniformidade nas cobranças e pagamentos.
-                  </p>
-                </li>
-                <li><strong>Códigos e Nomenclaturas:</strong>
-                  <p>O sistema atribui códigos e nomenclaturas específicos a cada procedimento, medicamento ou
-                    dispositivo médico. Esses códigos são usados em faturas, registros médicos, sistemas de informação e
-                    outras aplicações relacionadas à saúde.</p>
-                </li>
-                <li><strong>Controle de Custos:</strong>
-                  <p>Ajuda a controlar os custos dos serviços de saúde, promovendo a eficiência na utilização de
-                    recursos públicos.</p>
-                </li>
-                <li><strong>Transparência e Auditoria:</strong>
-                  <p>Torna as informações sobre procedimentos e custos acessíveis para auditorias e avaliações de
-                    desempenho.</p>
-                </li>
-                <li><strong>Uso Clínico e Administrativo:</strong>
-                  <p>Além de ser usado para fins administrativos, o SIGTAP também auxilia os profissionais de saúde na
-                    codificação adequada de procedimentos e no registro de informações clínicas.
-
-                  </p>
-                </li>
-                <li><strong>Facilita o Faturamento:</strong>
-                  <p>Os prestadores de serviços de saúde utilizam o SIGTAP para elaborar faturas e pedidos de pagamento
-                    ao SUS, o que simplifica o processo de reembolso e pagamento pelos serviços prestados.
-
-                  </p>
-                </li>
-
-              </ul>
-
-
-              <div class="entry-content">
-
-            </article><!-- End blog entry -->
-            <article class="entry">
-
-              <div class="entry-img">
-                <img src="../assets/img/saude/bpa.png" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="entry-title">
-                <a href="blog-single.html">BPA - Autorização de Internação Hospitalar de Alta Complexidade</a>
-              </h2>
-              <p>O BPA (Autorização de Internação Hospitalar de Alta Complexidade) é um sistema utilizado no Brasil para
-                autorizar e controlar internações hospitalares de alta complexidade. Esse sistema é uma parte importante
-                do funcionamento do Sistema Único de Saúde (SUS) e é usado para garantir que os procedimentos médicos
-                realizados em hospitais de alta complexidade sejam devidamente autorizados e pagos de acordo com as
-                normas do SUS.</p>
-
-              <p>o BPA é uma parte fundamental do sistema de saúde brasileiro que visa controlar, autorizar e
-                registrar internações hospitalares de alta complexidade. Ele desempenha um papel importante na gestão
-                eficaz dos recursos de saúde, na transparência do sistema e na garantia de que os pacientes recebam
-                atendimento de qualidade em hospitais de alta complexidade.</p>
-
-              <p> Vejamos abaixo os principais aspectos e funções do BPA:</p>
-              <ul>
-                <li>
-                  <strong>Autorização de Internações:</strong>
-                  <p>O BPA é usado para autorizar internações hospitalares que envolvem procedimentos médicos de alta
-                    complexidade, como cirurgias complexas, tratamentos intensivos e procedimentos especializados.
-
-                  </p>
-                </li>
-                <li>
-                  <strong>Padronização de Autorizações:</strong>
-                  <p>Ele padroniza os processos de autorização, definindo critérios claros para a aprovação de
-                    internações hospitalares de alta complexidade. Esses critérios são baseados em protocolos clínicos e
-                    diretrizes médicas.
-
-                  </p>
-                </li>
-                <li>
-                  <strong>Controle de Custos:</strong>
-                  <p>
-                    O BPA ajuda a controlar os custos dos procedimentos realizados em hospitais de alta complexidade,
-                    garantindo que apenas internações necessárias e apropriadas sejam autorizadas e reembolsadas.
-
-                  </p>
-                </li>
-                <li>
-                  <strong>Registro de Dados:</strong>
-                  <p>O sistema registra informações detalhadas sobre as internações, incluindo dados do paciente,
-                    informações clínicas, procedimentos realizados e custos associados. Essas informações são usadas
-                    para controle, auditorias e análises estatísticas.
-
-                  </p>
-                </li>
-                <li>
-                  <strong>Faturamento e Pagamento:</strong>
-                  <p>O BPA também desempenha um papel importante no processo de faturamento e pagamento. Ele auxilia os
-                    hospitais e prestadores de serviços de saúde na elaboração de faturas para os serviços prestados
-                    durante a internação e garante que os pagamentos sejam feitos de acordo com as normas estabelecidas.
-
-                  </p>
-                </li>
-                <li>
-                  <strong>Integração com Outros Sistemas:</strong>
-                  <p>O BPA é integrado a outros sistemas de saúde, como o SIGTAP (Sistema de Gerenciamento da Tabela de
-                    Procedimentos, Medicamentos e OPM do SUS) e o CNES (Cadastro Nacional de Estabelecimentos de Saúde),
-                    para garantir a consistência e a atualização das informações em todo o sistema de saúde.
-
-                  </p>
-                </li>
-                <li>
-                  <strong>Transparência e Auditoria:</strong>
-                  <p>As informações registradas no BPA são acessíveis para auditorias e análises de desempenho. Isso
-                    promove a transparência e a prestação de contas no sistema de saúde.
-
-                  </p>
-                </li>
-                <li>
-                  <strong>Garantia da Qualidade dos Serviços:</strong>
-                  <p>O sistema contribui para garantir que os procedimentos médicos realizados em hospitais de alta
-                    complexidade atendam aos padrões de qualidade e eficácia estabelecidos pelo SUS.
-
-                  </p>
-                </li>
-
-              </ul>
-
-            </article><!-- End blog entry -->
-            <article class="entry">
-
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="entry-title">
-                <a href="blog-single.html">SGOP - Sistema de Gestão de Operadores (CADSUS WEB)</a>
+                SGOP - Sistema de Gestão de Operadores (CADSUS WEB)
               </h2>
 
               <p>O CADSUS WEB (Cadastro Nacional de Usuários do Sistema Único de Saúde na Web) é um sistema online
@@ -227,6 +40,26 @@
                 dos cidadãos brasileiros no contexto do Sistema Único de Saúde (SUS). Ele desempenha um papel crucial na
                 organização e na prestação de serviços de saúde de qualidade para a população do Brasil.</p>
 
+              <h4>Sobre o programa</h4>
+
+              <p>O Cartão Nacional de Saúde (CNS) é o documento de identificação do usuário do SUS. Este registro contém as informações dos indivíduos, como: dados pessoais (nome, nome da mãe, data de nascimento, etc), contatos (telefones, endereço, e-mails) e documentos (CPF, RG, Certidões, etc). Atualmente, o número do CNS é utilizado nos sistemas informatizados de saúde que demandam identificação dos indivíduos, sejam usuários, operadores ou profissionais de saúde. Dessa forma, o CNS possibilita a criação do histórico de atendimento de cada cidadão no Sistema Único de Saúde (SUS), por meio do acesso às Bases de Dados dos sistema de atenção básica, sistema hospitalar, sistema de dispensação de medicamentos, etc.</p>
+              <p>Com os CNS, o usuário do SUS pode conferir as informações de suas internações hospitalares, com dados sobre atendimento ambulatorial de média e alta complexidade e aquisição de medicamentos no programa Farmácia Popular. O sistema do Cartão identifica o indivíduo para garantir a cidadania, coordena informações para humanizar o atendimento e padroniza os procedimentos para democratizar o uso do recurso público.</p>
+
+              <strong>Quais são os benefícios de ter o CNS:</strong>
+              <ul>
+                <li>Rapidez na identificação do usuário;</li>
+                <li>Localização do prontuário pelo número do cartão;</li>
+                <li>Vinculação de: profissional, usuário, estabelecimento de saúde e atendimento;</li>
+                <li>Registro dos atendimentos realizados;</li>
+                <li>Registro do agendamento e execução de consultas e exames;</li>
+                <li>Dispensação de medicamentos;</li>
+                <li>Atualização de dados cadastrais.</li>
+              </ul>
+              <p>O CNS faz parte da política do e-Saúde, que utiliza essas bases de dados de pessoas, estabelecimentos, procedimentos, como forma de propor ações estratégicas para a formulação de políticas de saúde de forma integrada. Com isso, é possível organizar a rede de atenção à saúde e a gestão do SUS, facilitar o atendimento ao cidadão e qualificar o trabalho dos gestores e profissionais da área da Saúde. Diante disso, percebe-se o impacto e a amplitude do uso das tecnologias de informação e de telecomunicação na gestão da saúde pública. O acesso a essas informações dá ao cidadão a possibilidade de participar da fiscalização e do aprimoramento do SUS. </p>
+
+              <p>O cidadão poderá saber os nomes dos profissionais de saúde que o atenderam, o período, o nome da unidade de saúde e os procedimentos clínicos e cirúrgicos realizados. Isso traz transparência e possibilita ao cidadão participar da fiscalização e do aprimoramento do SUS.</p>
+
+              <hr>
               <p>Aqui estão alguns pontos-chave sobre o CADSUS WEB:</p>
               <li>
                 <strong>Cadastro de Usuários do SUS:</strong>
@@ -284,24 +117,33 @@
                 <p>A existência do CADSUS WEB ajuda a promover a transparência no sistema de saúde e facilita o controle
                   e a gestão de dados por parte das autoridades de saúde.
                 </p>
+                <hr>
+                <p> <strong>Para saber mais acesse o link abaixo:</strong></p>
+                <a href="https://cadastro.saude.gov.br/novocartao" target="_blank">https://cadastro.saude.gov.br/novocartao</a><br>
+                <a href="https://cadastro.saude.gov.br/saiba-mais/assets/files/manual-cadsusweb.pdf" target="_blank">Manual de apoio ao Cadastro
+                  Nacional de Usuários do Sistema Único de Saúde - CadSUS Web</a>
+
+            </article>
+
           </div>
-          <!-- End blog entries list -->
+
+          <!-- End blog entry -->
 
           <div class="col-lg-4">
 
             <div class="sidebar">
 
-              <h3 class="sidebar-title">Cursos em breve</h3>
+              <h3 class="sidebar-title">Saiba mais</h3>
               <div class="sidebar-item categories">
                 <ul>
-                  <li><a href="#">Introução a Informática <span></span></a></li>
-                  <li><a href="#">Atalhos e Dicas do Windows <span></span></a></li>
-                  <li><a href="#">Navegadores de Internet <span></span></a></li>
-                  <li><a href="#">Corrêio eletrônico <span></span></a></li>
-                  <li><a href="#">Microsoft Word <span></span></a></li>
-                  <li><a href="#">Microsoft Excel <span></span></a></li>
-                  <li><a href="#">Microsoft PowerPoint <span></span></a></li>
-                  <li><a href="#">Material didático <span></span></a></li>
+                  <li><a href="#">Coren<span></span></a></li>
+                  <li><a href="#">CRM<span></span></a></li>
+                  <li><a href="#">APAC<span></span></a></li>
+                  <li><a href="#">SISREG<span></span></a></li>
+                  <li><a href="#">Enfermagem<span></span></a></li>
+                  <li><a href="#">Notícias<span></span></a></li>
+                  <li><a href="#">Enfermagem em foco<span></span></a></li>
+                  <li><a href="#">Medicina<span></span></a></li>
                 </ul>
               </div><!-- End sidebar categories-->
 
@@ -363,20 +205,21 @@
                 <h3 class="sidebar-title">MinhasTags</h3>
                 <div class="sidebar-item tags">
                   <ul>
-                    <li><a href="#">App</a></li>
-                    <li><a href="#">TI</a></li>
-                    <li><a href="#">Computação </a></li>
+                    <li><a href="">TecnologiaHospitalar</a></li>
+                    <li><a href="#">CNES</a></li>
+                    <li><a href="#">IA/SUS</a></li>
                     <li><a href="#">Programação</a></li>
-                    <li><a href="#">Design</a></li>
-                    <li><a href="#">Computer</a></li>
-                    <li><a href="#">BD</a></li>
-                    <li><a href="#">Smart</a></li>
-                    <li><a href="#">Tips</a></li>
-                    <li><a href="#">Internet</a></li>
-                    <li><a href="#">tecnologia </a></li>
-                    <li><a href="#">PHP</a></li>
-                    <li><a href="#">IT</a></li>
-                    <li><a href="#">Windows</a></li>
+                    <li><a href="#">SIGTAP</a></li>
+                    <li><a href="#">SISAIH01</a></li>
+                    <li><a href="#">BPA</a></li>
+                    <li><a href="#">ProcessosHospitalares</a></li>
+                    <li><a href="#">Faturamento</a></li>
+                    <li><a href="#">SuporteHospitalar</a></li>
+                    <li><a href="#">SaúdeDigital</a></li>
+                    <li><a href="#">ProcessamentoSUS</a></li>
+                    <li><a href="#">IndicadoresHospitalares</a></li>
+                    <li><a href="#">FluxosHospitalares</a></li>
+                    <li><a href="#">SUS</a></li>
                   </ul>
                 </div><!-- End sidebar tags-->
 
