@@ -144,18 +144,18 @@
       <div class="clients-slider swiper text-center">
         <h3> Alguns de nossos clientes</h3>
         <div class="swiper-wrapper align-items-center">
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/afonsomad.jpg" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/laboratorio.jpg" class="img-fluid" alt="">
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/afonsomad.jpg" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/laboratorio.jpg" class="img-fluid" alt="">
           </div>
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/bikeshop.jpeg" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/oabpe.png" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/clinfd.jpg" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/farmacenter.jpg" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/lladesivos.jfif" class="img-fluid" alt="">
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/bikeshop.jpeg" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/oabpe.png" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/clinfd.jpg" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/farmacenter.jpg" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/lladesivos.jfif" class="img-fluid" alt="">
           </div>
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/papelariadel.jpg" class="img-fluid" alt="">
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/papelariadel.jpg" class="img-fluid" alt="">
           </div>
-          <div class="swiper-slide"><img src="<?= BASE_URL ?>assets/img/clients/maisaude.png" class="img-fluid" alt="">
+          <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/maisaude.png" class="img-fluid" alt="">
           </div>
         </div>
         <div class="swiper-pagination"></div>
@@ -170,7 +170,7 @@
       <div class="row">
 
         <div class="col-lg-5 align-items-stretch position-relative video-box"
-          style='background-image: url("assets/img/gestaohospitalar.jpg");' data-aos="fade-right">
+          style='background-image: url("https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/gestaohospitalar.jpg");' data-aos="fade-right">
           <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> -->
         </div>
 
@@ -503,8 +503,6 @@
       </div>
 
     </div>
-  </section><!-- End Contact Section -->
+  </section>
 
-</main><!-- End #main -->
-
-<!-- ======= Footer ======= -->
+</main>

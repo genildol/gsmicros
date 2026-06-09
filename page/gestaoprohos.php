@@ -732,7 +732,7 @@
 
               <div class="sidebar-item recent-posts">
                 <div class="post-item clearfix">
-                  <img src="../assets/img/blog/blog-2.jpg" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/blog/blog-2.jpg" alt="">
                   <h4><a href="#gratuitos">Aulas Gratuitos</a></h4>
                   <div class="texto">
                     <h4> Estou disponibilizando aulas gratuitas...</h4>
@@ -740,7 +740,7 @@
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="../assets/img/links/google.webp" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/links/google.webp" alt="">
                   <h4><a href="#contagoogle">A sua conta Google</a></h4>
                   <div class="texto">
                     <h4>Dicas importantes sobre a sua conta do Google que você não sabe</h4>
@@ -748,7 +748,7 @@
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="../assets/img/mente-fragmentada.webp" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/mente-fragmentada.webp" alt="">
                   <h4><a
                       href="https://amenteemaravilhosa.com.br/5-tecnicas-para-desativar-pensamentos-negativos-automaticos/"
                       target="_blank">5 técnicas para desativar...</a></h4>
@@ -758,7 +758,7 @@
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="./assets/img/whatsapp.jpg" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/whatsapp.jpg" alt="">
                   <h4><a href="#whatsapp">O WhatsApp, da Meta, concordou em ser mais transparent</a></h4>
                   <div class="texto">
                     <h4>WhatsApp concorda em ser mais transparente com mudanças sobre políticas de privacidade, diz UE
@@ -766,13 +766,13 @@
                   </div>
                 </div>
                 <div class="post-item clearfix">
-                  <img src="../assets/img/golpeinternet.jpg" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/golpeinternet.jpg" alt="">
                   <h4><a href="#golpeinternet">Dicas para você não cair em golpes na internet</a></h4>
                   <div class="texto">
                     <h4>Segurança na rede e privacidade de seus dados: Dicas para se proteger e evitar golpes</h4>
                   </div>
                   <div class="post-item clearfix">
-                    <img src="../assets/img/links/amente.svg" alt="">
+                    <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/links/amente.svg" alt="">
                     <h4><a href="https://amenteemaravilhosa.com.br/" target="_blank">A mente é maravilhosa</a></h4>
                     <div class="texto">
                       <h4>Se você gosta de ler artigos sobre psicologia, educação, trabalho, relações e muito mais, esse
@@ -814,6 +814,6 @@
         </div>
 
       </div>
-    </section><!-- End Blog Section -->
+    </section>
 
-  </main><!-- End #main -->
+  </main>

@@ -25,7 +25,7 @@
               <div class="entry-img" id="informatica">
 
                 <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/bloglogo.png" alt="" class="img-fluid">
-                
+
               </div>
 
               <h1 class=" entry-title">
@@ -239,7 +239,7 @@
               <h3 class="sidebar-title">Notícias Recentes</h3>
               <div class="sidebar-item recent-posts">
                 <div class="post-item clearfix">
-                  <img src="assets/img/blog/blog-2.jpg" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/blog/blog-2.jpg" alt="">
                   <h4><a href="#gratuitos">Aulas Gratuitos</a></h4>
                   <div class="texto">
                     <h4> Estou disponibilizando aulas gratuitas...</h4>
@@ -247,7 +247,7 @@
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="assets/img/links/google.webp" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/links/google.webp" alt="">
                   <h4><a href="#contagoogle">A sua conta Google</a></h4>
                   <div class="texto">
                     <h4>Dicas importantes sobre a sua conta do Google que você não sabe</h4>
@@ -255,7 +255,7 @@
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="assets/img/blog/govbr.webp" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/blog/govbr.webp" alt="">
                   <h4><a
                       href="https://"
                       target="_blank">Porque sua conta Gov é tão...</a></h4>
@@ -265,7 +265,7 @@
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="assets/img/whatsapp.jpg" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/whatsapp.jpg" alt="">
                   <h4><a href="#whatsapp">O WhatsApp, da Meta, concordou em ser mais transparent</a></h4>
                   <div class="texto">
                     <h4>WhatsApp concorda em ser mais transparente com mudanças sobre políticas de privacidade, diz UE
@@ -273,13 +273,13 @@
                   </div>
                 </div>
                 <div class="post-item clearfix">
-                  <img src="assets/img/golpeinternet.jpg" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/golpeinternet.jpg" alt="">
                   <h4><a href="#golpeinternet">Dicas para você não cair em golpes na internet</a></h4>
                   <div class="texto">
                     <h4>Segurança na rede e privacidade de seus dados: Dicas para se proteger e evitar golpes</h4>
                   </div>
                   <div class="post-item clearfix">
-                    <img src="assets/img/links/amente.svg" alt="">
+                    <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/links/amente.svg" alt="">
                     <h4><a href="https://amenteemaravilhosa.com.br/" target="_blank">A mente é maravilhosa</a></h4>
                     <div class="texto">
                       <h4>Se você gosta de ler artigos sobre psicologia, educação, trabalho, relações e muito mais, esse
