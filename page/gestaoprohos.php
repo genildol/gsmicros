@@ -21,13 +21,13 @@
 
           <div class="col-lg-8 entries">
 
-            <article class="entry">
+            <article class="entry" id="organizacaosetores">
 
               <div class="entry-img">
                 <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/organizacaosetores.png" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title" id="organizacaosetores">
+              <h2 class="entry-title">
                 Organização de setores hospitalares
               </h2>
 
@@ -161,13 +161,13 @@
                 </ul>
             </article>
 
-            <article class="entry">
+            <article class="entry" id="fluxoatendimento">
 
               <div class="entry-img">
                 <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/fluxoatendimento.png" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title" id="fluxoatendimento">
+              <h2 class="entry-title">
                 Melhoria de fluxo de atendimento
               </h2>
               <p>O fluxo de atendimento hospitalar representa todo o caminho percorrido pelo paciente dentro da unidade de saúde, desde sua chegada até a finalização do atendimento.
@@ -259,13 +259,13 @@
               <p>Tudo isso ajuda a tornar o atendimento mais rápido e eficiente.</p>
 
             </article>
-            <article class="entry">
+            <article class="entry" id="controledemandas">
 
               <div class="entry-img">
                 <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/controledemandas.png" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title" id="controledemandas">
+              <h2 class="entry-title">
                 Controle de Demandas
               </h2>
               <p>O controle de demandas hospitalares é o processo de monitoramento das necessidades, atendimentos e solicitações dentro da unidade de saúde.</p>
@@ -348,13 +348,13 @@
               <p>Isso ajuda gestores a tomar decisões rápidas e eficientes.</p>
 
             </article>
-            <article class="entry">
+            <article class="entry" id="padronizacao">
 
               <div class="entry-img">
                 <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/padronizacao.png" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title" id="padronizacao">
+              <h2 class="entry-title">
                 Padronização de processos
               </h2>
               <p>A padronização de processos hospitalares significa criar regras, rotinas e procedimentos organizados para que todos os profissionais executem as atividades da mesma forma.</p>
@@ -439,13 +439,13 @@
               <p>A padronização também facilita a integração entre setores.</p>
 
             </article>
-            <article class="entry">
+            <article class="entry" id="comunicacao">
 
               <div class="entry-img">
                 <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/comunicacao.png" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title" id="comunicacao">
+              <h2 class="entry-title">
                 Comunicação entre equipes
               </h2>
               <p>A comunicação hospitalar é um dos fatores mais importantes para garantir segurança, eficiência e qualidade no atendimento.</p>
@@ -537,13 +537,13 @@
               </ul>
             </article>
             <!-- Redução de retrabalho -->
-            <article class="entry">
+            <article class="entry" id="retrabalho">
 
               <div class="entry-img">
                 <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/retrabalho.png" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title" id="retrabalho">
+              <h2 class="entry-title">
                 Redução de Retrabalho
               </h2>
               <p>A eficiência operacional é a capacidade de um hospital de realizar suas atividades de forma otimizada, utilizando recursos de maneira eficaz e entregando resultados de qualidade. Isso envolve a otimização de processos, a melhoria da comunicação e o uso de tecnologias avançadas para aumentar a produtividade e reduzir desperdícios.</p>
@@ -612,12 +612,12 @@
               </ul>
             </article>
 
-            <article class="entry">
+            <article class="entry" id="eficienciaoperacional">
               <div class="entry-img">
                 <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/eficienciaoperacional.png" alt="" class="img-fluid">
               </div>
 
-              <h2 class="entry-title" id="eficienciaoperacional">
+              <h2 class="entry-title">
                 Eficiência operacional na saúde
               </h2>
               <p>Eficiência operacional significa fazer o hospital funcionar de maneira organizada, produtiva e com o melhor aproveitamento possível dos recursos disponíveis.</p>
@@ -714,17 +714,16 @@
 
             <div class="sidebar">
 
-              <h3 class="sidebar-title">Saiba mais</h3>
+              <h3 class="sidebar-title">Tópicos</h3>
               <div class="sidebar-item categories">
                 <ul>
-                  <li><a href="#">Coren<span></span></a></li>
-                  <li><a href="#">CRM<span></span></a></li>
-                  <li><a href="#">APAC<span></span></a></li>
-                  <li><a href="#">SISREG<span></span></a></li>
-                  <li><a href="#">Enfermagem<span></span></a></li>
-                  <li><a href="#">Notícias<span></span></a></li>
-                  <li><a href="#">Enfermagem em foco<span></span></a></li>
-                  <li><a href="#">Medicina<span></span></a></li>
+                  <li><a href="#fluxoatendimento">Melhoria de fluxo de atendimento<span></span></a></li>
+                  <li><a href="#controledemandas">Controle de demandas<span></span></a></li>
+                  <li><a href="#padronizacao">Padronização de processos<span></span></a></li>
+                  <li><a href="#comunicacao">Comunicação entre equipes<span></span></a></li>
+                  <li><a href="#retrabalho">Redução de retrabalho<span></span></a></li>
+                  <li><a href="#eficienciaoperacional">Eficiência operacional na saúde<span></span></a></li>
+
                 </ul>
               </div><!-- End sidebar categories-->
 

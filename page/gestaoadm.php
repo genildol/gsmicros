@@ -154,6 +154,10 @@
 
                 <p>Também serão apresentados exemplos práticos baseados na rotina hospitalar, mostrando desafios reais enfrentados dentro das instituições e possíveis soluções utilizando tecnologia e gestão.</p>
 
+                <p>Tecnologia hospitalar, Faturamento Hospitalar e Dados, Capacitação Operacional, Processos e Fluxo Hospitalar, Cadastro e SUS,Suporte a Sistemas Hospitalares, clique no link abaixo:</p>
+
+                <button class="btn btn-primary"><a href="?page=blog" class="text-white">Veja mais sobre Gestão de Processos Hospitalares</a></button>
+
                 <!-- <div class="read-more">
                   <a href="blog.html">Em breve...</a>
                 </div> -->
@@ -161,135 +165,7 @@
                 <h3 class="entry-title">
                   <a href="?page="></a>
                 </h3>
-                <h3><a href="?page=">Tecnologia Hospitalar</a></h3>
-                <p>A área da saúde depende cada vez mais de sistemas, computadores, integração de dados e soluções digitais.</p>
-
-                <H6> Serão publicados conteúdos sobre:</H6>
-
-                <ul>
-                  <li><a href="?page=gestaoprohos#" id="">Infraestrutura de TI em hospitais</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Digitalização de processos</a></li>
-                  <li><a href="?page=gestaoprohos#" id=""> Segurança da informação</a></li>
-                  <li><a href="?page=gestaoprohos#" id=""> Organização de dados</a></li>
-                  <li><a href="?page=gestaoprohos#" id=""> Automação de rotinas</a></li>
-                  <li><a href="?page=gestaoprohos#" id=""> Tecnologia aplicada ao SUS</a></li>
-                  <li><a href="?page=gestaoprohos#" id=""> Ferramentas que auxiliam no atendimento hospitalar</a></li>
-                </ul>
-                <p>Além disso, o blog abordará como a tecnologia pode ajudar profissionais que possuem pouca familiaridade com informática, trazendo conteúdos simples, práticos e educativos.</p>
-                <hr>
-
-                <h2 class="entry-title">
-                  <a href="?page="></a>
-                </h2>
-                <h3><a href="?page=">Faturamento Hospitalar e Dados</a></h3>
-                <p>O faturamento hospitalar é uma das áreas mais importantes dentro das instituições de saúde. Erros simples podem gerar perda de recursos, inconsistências e dificuldades administrativas.</p>
-
-                <h6>Aqui serão discutidos conteúdos relacionados a:</h6>
-
-                <ul>
-                  <li><a href="?page=gestaoprohos#" id=""> BPA</a></li>
-                  <li><a href="?page=gestaoprohos#" id=""> APAC</a></li>
-                  <li><a href="?page=gestaoprohos#" id=""> SIH</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">SIGTAP</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">CNES</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Sisreg</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Cadastros SUS</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Qualidade dos dados</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Registro correto de informações</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Indicadores hospitalares</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Importância da informação no SUS</a></li>
-                </ul>
-                <P>O blog também irá explorar como dados bem organizados podem auxiliar na gestão, tomada de decisão e melhoria dos serviços de saúde.</P>
-
-                <hr>
-                <h2 class="entry-title">
-                  <a href="?page="></a>
-                </h2>
-                <h3><a href="?page=">Capacitação Operacional</a></h3>
-                <p>Muitos problemas dentro das unidades hospitalares não acontecem por falta de esforço dos profissionais, mas sim pela ausência de treinamento adequado.</p>
-                <h6>Por isso, este espaço também terá foco em:</h6>
-
-                <ul>
-                  <li><a href="?page=gestaoprohos#" id="">Capacitação de recepcionistas</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Orientação operacional</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Uso básico de computadores</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Boas práticas em atendimento</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Organização digital</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Suporte ao usuário</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Rotinas administrativas hospitalares</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Desenvolvimento profissional</a></li>
-                </ul>
-                <p>A ideia é tornar o conhecimento mais acessível para profissionais que lidam diariamente com sistemas e processos hospitalares.</p>
-                <hr>
-
-                <h2 class="entry-title">
-                  <a href="?page="></a>
-                </h2>
-                <h3><a href="?page=faturamento">Processos e Fluxo Hospitalar</a></h3>
-                <p>Cada setor dentro de um hospital depende de outro. Quando o fluxo não funciona corretamente, surgem filas, atrasos, informações incorretas e dificuldades no atendimento.</p>
-                <h6>Serão abordados temas como:</h6>
-
-                <ul>
-                  <li><a href="?page=gestaoprohos#" id="">Fluxo de pacientes</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Organização de atendimentos</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Comunicação entre setores</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Encaminhamentos</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Processos internos</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Gestão de filas</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Agilidade operacional</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Controle de demandas hospitalares</a></li>
-                </ul>
-
-                <p>O objetivo é mostrar como pequenas melhorias podem gerar grandes impactos na rotina hospitalar.</p>
-                <hr>
-                <h2 class="entry-title">
-                  <a href="?page="></a>
-                </h2>
-                <h3><a href="">Cadastro e SUS</a></h3>
-                <p>O cadastro correto do paciente é uma das bases do funcionamento do SUS. Informações inconsistentes podem afetar atendimentos, exames, regulação, faturamento e diversos outros processos.</p>
-                <h6>Aqui serão compartilhados conteúdos sobre:</h6>
-                <ul>
-                  <li><a href="?page=gestaoprohos#" id="">Cadastro de pacientes</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Cartão SUS</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">CadSUS</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Atualização de dados</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Problemas frequentes no atendimento</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Impacto de dados inconsistentes</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Qualidade da informação no SUS</a></li>
-                </ul>
-                <p>Também serão apresentados conteúdos educativos para auxiliar profissionais que atuam diretamente no atendimento ao público.</p>
-                <hr>
-                <h2 class="entry-title">
-                  <a href=""></a>
-                </h2>
-                <h3><a href="?page=">Suporte a Sistemas Hospitalares</a></h3>
-                <p>Em muitos hospitais, os profissionais enfrentam dificuldades técnicas diariamente: sistemas lentos, erros operacionais, dúvidas de uso, falhas de cadastro e problemas que afetam diretamente o atendimento.</p>
-                <h6>Este blog também servirá como um espaço de apoio técnico e compartilhamento de conhecimento sobre:</h6>
-
-                <ul>
-                  <li><a href="?page=gestaoprohos#" id="">Suporte operacional</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Problemas comuns em sistemas hospitalares</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Dicas práticas de informática</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Organização de computadores hospitalares</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Acesso remoto</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Boas práticas de suporte</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Resolução de erros frequentes</a></li>
-                  <li><a href="?page=gestaoprohos#" id="">Orientação para usuários</a></li>
-                </ul>
-                <p>A proposta é aproximar a tecnologia da realidade hospitalar de forma clara, simples e objetiva. E assim contribuir para uma melhor experiência no atendimento aos pacientes.</p>
-                <hr>
-                <h2 class="entry-title">
-                  <a href="?page="></a>
-                </h2>
-                <h3><a href="">Um espaço para aprendizado e evolução</a></h3>
-                <p>Mais do que apenas publicar conteúdos técnicos, este blog busca contribuir para a melhoria da saúde através do conhecimento, da organização e da tecnologia.</p>
-                <p>Cada artigo, dica ou notícia publicada aqui terá como objetivo ajudar profissionais, compartilhar experiências reais e incentivar melhorias nos processos hospitalares e no atendimento à população.</p>
-                <p>A saúde precisa de tecnologia.</p>
-                <p>A tecnologia precisa de organização.</p>
-                <p>E ambos precisam de pessoas preparadas para transformar a realidade.</p>
-                <p>Seja bem-vindo a este espaço de aprendizado, troca de experiências e evolução profissional dentro da saúde e do SUS.</p>
-
-              </div>
+                
             </article>
             <!-- End blog entry -->
 
