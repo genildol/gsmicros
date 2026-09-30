@@ -475,29 +475,55 @@
 
         </div>
 
-        <body>
-          <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
-            <div class="row">
-              <div class="col-md-10">
-                <form action="./forms/contact.php" method="post">
-                  <div class="form-group">
-                    <label for="nome">Nome:</label>
-                    <input type="text" class="form-control" id="nome" name="nome" required>
-                  </div>
-                  <div class="form-group">
-                    <label for="email">Email:</label>
-                    <input type="email" class="form-control" id="email" name="email" required>
-                  </div>
-                  <div class="form-group">
-                    <label for="mensagem">Mensagem:</label>
-                    <textarea class="form-control" id="mensagem" name="mensagem" required></textarea>
-                  </div><br>
-                  <button type="submit" class="btn btn-primary">Enviar</button>
-                </form>
-              </div>
+        <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
+          <div class="row">
+            <div class="col-md-10">
+
+              <form action="./forms/contact.php" method="post">
+
+                <div class="form-group">
+                  <label for="nome">Nome:</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="nome"
+                    name="nome"
+                    required>
+                </div>
+
+                <div class="form-group">
+                  <label for="email">Email:</label>
+                  <input
+                    type="email"
+                    class="form-control"
+                    id="email"
+                    name="email"
+                    required>
+                </div>
+
+                <div class="form-group">
+                  <label for="mensagem">Mensagem:</label>
+                  <textarea
+                    class="form-control"
+                    id="mensagem"
+                    name="mensagem"
+                    rows="5"
+                    required></textarea>
+                </div>
+
+                <br>
+
+                <button type="submit" class="btn btn-primary">
+                  Enviar
+                </button>
+
+              </form>
+
             </div>
+
           </div>
-        </body>
+        </div>
+
 
 
       </div>
