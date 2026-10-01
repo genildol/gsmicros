@@ -4,7 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>GS Micros - Sistemas Hospitalares</title>
+  <title>GSMICROS | Tecnologia, Sistemas, Dados e Processos</title>
+
+  <meta name="description"
+    content="GSMICROS: tecnologia, sistemas, dados, automação e organização de processos, com experiência prática em tecnologia aplicada à saúde.">
+
+  <link rel="canonical" href="https://www.gsmicros.com.br/">
   <meta content="" name="description">
   <meta content="" name="keywords">
 

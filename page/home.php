@@ -132,53 +132,113 @@
 
 
 <section id="hero" class="d-flex justify-cntent-center align-items-center">
-  <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex justify-content-center align-items-center">
 
-    <!-- Slide 1 -->
-    <div class="carousel-item active">
-      <div class="carousel-container">
-        <h2 class="animate__animated animate__fadeInDown"><span>Analista de Sistemas Hospitalares | Especialista em SUS e Processos Hospitalares
-          </span>
-        </h2>
+    <div id="heroCarousel"
+      data-bs-interval="5000"
+      class="container carousel carousel-fade"
+      data-bs-ride="carousel">
 
-        <a href="blog/blog0.php" target="_blank"
-          class="btn-get-started animate__animated animate__fadeInUp scrollto">Saiba
-          mais</a>
+      <!-- Slide 1 -->
+      <div class="carousel-item active">
+
+        <div class="carousel-container">
+
+          <h2 class="animate__animated animate__fadeInDown">
+            Tecnologia, dados e processos para transformar desafios em soluções.
+          </h2>
+
+          <p class="animate__animated animate__fadeInUp">
+            Soluções digitais pensadas para a realidade de empresas,
+            profissionais e organizações.
+          </p>
+
+          <a href="#services"
+            class="btn-get-started animate__animated animate__fadeInUp scrollto">
+            Conheça nossos serviços
+          </a>
+
+        </div>
+
       </div>
+
+
+      <!-- Slide 2 -->
+      <div class="carousel-item">
+
+        <div class="carousel-container">
+
+          <h2 class="animate__animated animate__fadeInDown">
+            Tecnologia aplicada à realidade da saúde
+          </h2>
+
+          <p class="animate__animated animate__fadeInUp">
+            Experiência prática em sistemas hospitalares, SUS,
+            processos, dados e gestão.
+          </p>
+
+          <a href="#about"
+            class="btn-get-started animate__animated animate__fadeInUp scrollto">
+            Conheça a GSMICROS
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <!-- Slide 3 -->
+      <div class="carousel-item">
+
+        <div class="carousel-container">
+
+          <h2 class="animate__animated animate__fadeInDown">
+            Transformando ideias em soluções
+          </h2>
+
+          <p class="animate__animated animate__fadeInUp">
+            Desenvolvimento de sistemas, automação e ferramentas
+            para resolver problemas reais.
+          </p>
+
+          <a href="#contact"
+            class="btn-get-started animate__animated animate__fadeInUp scrollto">
+            Fale conosco
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <!-- Controles -->
+      <a class="carousel-control-prev"
+        href="#heroCarousel"
+        role="button"
+        data-bs-slide="prev">
+
+        <span class="carousel-control-prev-icon bx bx-chevron-left"
+          aria-hidden="true"></span>
+
+      </a>
+
+      <a class="carousel-control-next"
+        href="#heroCarousel"
+        role="button"
+        data-bs-slide="next">
+
+        <span class="carousel-control-next-icon bx bx-chevron-right"
+          aria-hidden="true"></span>
+
+      </a>
+
     </div>
 
-    <!-- Slide 2 -->
-    <div class="carousel-item">
-      <div class="carousel-container">
-        <h2 class="animate__animated animate__fadeInDown">A melhor maneira de prever o futuro é organizá-lo</h2>
-        <p class="animate__animated animate__fadeInUp">
-          Tecnologia, processos e eficiência para transformar a realidade hospitalar</p>
-        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Saiba mais</a>
-      </div>
-    </div>
-
-    <!-- Slide 3 -->
-    <div class="carousel-item">
-      <div class="carousel-container">
-        <h2 class="animate__animated animate__fadeInDown">Transformando ideias em realidade</h2>
-        <p class="animate__animated animate__fadeInUp">
-          Transformo desafios do ambiente hospitalar em soluções práticas, unindo tecnologia, organização e eficiência no
-          atendimento
-        </p>
-        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Saiba mais</a>
-      </div>
-    </div>
-
-    <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon bx bx-chevron-left" aria-hidden="true"></span>
-    </a>
-
-    <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
-      <span class="carousel-control-next-icon bx bx-chevron-right" aria-hidden="true"></span>
-    </a>
-
-  </div>
-</section><!-- End Hero -->
+  </section>
+  <!-- End Hero -->
+</section>
+<!-- End Hero -->
 
 <main id="main">
 
@@ -190,8 +250,8 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up">
           <div class="icon-box">
             <div class="icon"><i class="bi bi-pc-display-horizontal"></i></div>
-            <h4 class="title"><a href="">Gestão de Processos</a></h4>
-            <p class="description">Mapeamento e melhoria de fluxos hospitalares, reduzindo retrabalho e falhas no atendimento </p>
+            <h4 class="title"><a href="">Tecnologia e Sistemas</a></h4>
+            <p class="description">Soluções tecnológicas para otimizar processos e melhorar a eficiência hospitalar</p>
           </div>
         </div>
 
@@ -199,8 +259,8 @@
           data-aos-delay="100">
           <div class="icon-box">
             <div class="icon"><i class="bi bi-credit-card-2-front"></i></div>
-            <h4 class="title"><a href="">Tecnologia Hospitalar</a></h4>
-            <p class="description">Integração entre sistemas e rotina hospitalar, garantindo uso eficiente da tecnologia</p>
+            <h4 class="title"><a href="">Dados e Indicadores</a></h4>
+            <p class="description">Análise e interpretação de dados para tomada de decisão estratégica e melhoria contínua dos serviços hospitalares</p>
           </div>
         </div>
 
@@ -208,8 +268,8 @@
           data-aos-delay="200">
           <div class="icon-box">
             <div class="icon"><i class="bi bi-gear"></i></div>
-            <h4 class="title"><a href="">Faturamento e Dados</a></h4>
-            <p class="description">Organização de informações que impactam diretamente o faturamento e a gestão hospitalar</p>
+            <h4 class="title"><a href="">Saúde e Processos</a></h4>
+            <p class="description">Otimização de processos e melhoria contínua dos serviços hospitalares</p>
           </div>
         </div>
 
@@ -217,8 +277,8 @@
           data-aos-delay="300">
           <div class="icon-box">
             <div class="icon"><i class="bi bi-people-fill"></i></div>
-            <h4 class="title"><a href="">Capacitação Operacional</a></h4>
-            <p class="description">Treinamento prático de equipes para uso correto de sistemas no dia a dia.</p>
+            <h4 class="title"><a href="">Desenvolvimento e Automação</a></h4>
+            <p class="description">Desenvolvimento de soluções e automação de processos para melhorar a eficiência hospitalar</p>
           </div>
         </div>
 
@@ -232,40 +292,119 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>Sobre Mim</h2>
-        <p>Atuo na área hospitalar com foco em tecnologia, processos e organização do atendimento.</p>
+        <h2>Sobre a GSMICROS</h2>
+        <p>
+          A GSMICROS atua com tecnologia, sistemas, dados e processos,
+          desenvolvendo soluções alinhadas às necessidades reais de cada negócio.
+        </p>
 
-        <p>MMinha experiência vem da prática diária dentro do ambiente hospitalar, lidando diretamente com sistemas, recepção,
-          cadastro de pacientes e desafios operacionais reais.</p><br>
+        <p>
+          Nossa experiência está especialmente ligada ao ambiente hospitalar,
+          onde a tecnologia precisa estar integrada aos processos, às equipes
+          e à realidade dos serviços de saúde.
+        </p>
 
-        <p>Hoje, meu objetivo é aplicar tecnologia de forma simples e eficiente, alinhada à realidade das equipes, contribuindo
-          para a melhoria da gestão hospitalar, redução de erros e aumento da eficiência nos serviços de saúde.</p>
+        <p>
+          Essa experiência prática permite compreender não apenas os sistemas,
+          mas também os desafios enfrentados diariamente por quem utiliza
+          essas ferramentas.
+        </p>
       </div>
 
       <div class="row content">
+
         <div class="col-lg-6">
-          <h6><strong>Ao longo do tempo, identifiquei problemas recorrentes que impactam o funcionamento dos serviços de saúde, como</strong></h6>
+
+          <h6>
+            <strong>
+              Problemas que buscamos ajudar a resolver:
+            </strong>
+          </h6>
+
           <ul>
-            <li><i class="ri-check-double-line"></i> Dificuldade no uso de sistemas</li>
-            <li><i class="ri-check-double-line"></i> Falta de padronização no atendimento</li>
-            <li><i class="ri-check-double-line"></i> Erros em cadastro de pacientes</li>
-            <li><i class="ri-check-double-line"></i> Processos desorganizados e retrabalho</li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Dificuldade no uso de sistemas
+            </li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Falta de padronização de processos
+            </li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Erros em cadastros e informações
+            </li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Processos desorganizados e retrabalho
+            </li>
+
           </ul>
+
         </div>
+
 
         <div class="col-lg-6 pt-4 pt-lg-0">
-          <h6><strong>Diante desses desafios, desenvolvi conhecimento prático em:</strong></h6>
+
+          <h6>
+            <strong>
+              Áreas de experiência:
+            </strong>
+          </h6>
+
           <ul>
-            <li><i class="ri-check-double-line"></i> Sistemas hospitalares</li>
-            <li><i class="ri-check-double-line"></i> Cadastro e regularização no SUS</li>
-            <li><i class="ri-check-double-line"></i> Organização de fluxos de atendimento</li>
-            <li><i class="ri-check-double-line"></i>Suporte e treinamento de equipes</li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Sistemas e processos hospitalares
+            </li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Sistemas de informação em saúde
+            </li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Cadastro e regularização no SUS
+            </li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Organização de fluxos e processos
+            </li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Dados, relatórios e indicadores
+            </li>
+
+            <li>
+              <i class="ri-check-double-line"></i>
+              Suporte e treinamento de equipes
+            </li>
+
           </ul>
 
-          <!-- <a href="#contact" class="btn-learn-more">Entre em contato</a> -->
         </div>
-        <i>Acredito que a tecnologia só gera resultados quando está alinhada com pessoas preparadas e processos bem definidos.</i>
+
+
+        <div class="col-12 mt-3">
+
+          <i>
+            Acreditamos que a tecnologia gera melhores resultados quando
+            está alinhada às pessoas, aos processos e às necessidades reais
+            de cada organização.
+          </i>
+
+        </div>
+
       </div>
+
 
     </div>
   </section>
@@ -275,7 +414,7 @@
     <div class="container" data-aos="zoom-in">
 
       <div class="clients-slider swiper text-center">
-        <h3> Alguns de nossos clientes</h3>
+        <h3> Empresas e organizações atendidas por nós</h3>
         <div class="swiper-wrapper align-items-center">
           <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/afonsomad.jpg" class="img-fluid" alt=""></div>
           <div class="swiper-slide"><img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/clients/laboratorio.jpg" class="img-fluid" alt="">
@@ -310,11 +449,11 @@
         <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch" data-aos="fade-left">
 
           <div class="content">
-            <h3><strong>Pilares da atuação em TI Hospitalar</strong></h3>
+            <h3><strong>Tecnologia que entende a realidade do negócio</strong></h3>
             <p>
-              A eficiência no ambiente hospitalar depende da integração entre pessoas, processos e tecnologia.
-              Nossa atuação é baseada nesses pilares, garantindo mais controle, redução de erros e melhoria no atendimento ao
-              paciente.
+              Acreditamos que uma solução tecnológica só funciona quando está
+              alinhada às pessoas que utilizam a ferramenta, aos processos que
+              precisam ser executados e aos objetivos da organização.
             </p>
           </div>
 
@@ -367,81 +506,252 @@
   </section><!-- End Why Us Section -->
 
   <!-- ======= Services Section ======= -->
+  <!-- ======= Services Section ======= -->
   <section id="services" class="services">
+
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
+
         <h2>Serviços</h2>
+
         <p>
-          Desenvolvemos soluções digitais voltadas para a área da saúde, com foco em processos hospitalares, sistemas e eficiência
-          operacional. Utilizamos metodologias ágeis e tecnologias adequadas para resolver problemas reais do dia a dia.</p>
+          Soluções em tecnologia, dados e processos para organizações
+          que buscam melhorar sua operação, organizar informações e
+          utilizar melhor seus sistemas.
+        </p>
+
       </div>
+
 
       <div class="row">
-        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+
+
+        <!-- 1 -->
+        <div class="col-md-6 d-flex align-items-stretch"
+          data-aos="fade-up"
+          data-aos-delay="100">
+
           <div class="icon-box">
+
             <i class="bi bi-laptop"></i>
-            <h4><a href="#">Suporte a Sistemas Hospitalares</a></h4>
-            <p>Atuação no uso, suporte e melhoria de sistemas utilizados no ambiente hospitalar</p>
-          </div>
-        </div>
-        <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
-          <div class="icon-box">
-            <i class="bi bi-sliders"></i>
-            <h4><a href="#">Cadastro e Regularização no SUS</a></h4>
-            <p>Apoio na organização de cadastros, incluindo processos relacionados ao Cartão SUS e dados de pacientes</p>
-          </div>
-        </div>
-        <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="300">
-          <div class="icon-box">
-            <i class="bi bi-gear-fill"></i>
-            <h4><a href="#">Organização de Processos Hospitalares</a></h4>
-            <p>Análise e melhoria de fluxos de atendimento, desde a recepção até o registro das informações</p>
-          </div>
-        </div>
-        <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
-          <div class="icon-box">
-            <i class="bi bi-headset"></i>
-            <h4><a href="#">Treinamento de Equipes</a></h4>
+
+            <h4>
+              <a href="#">Tecnologia e Sistemas</a>
+            </h4>
+
             <p>
-              Capacitação de profissionais com baixa familiaridade com tecnologia, facilitando o uso de sistemas e ferramentas</p>
+              Suporte, orientação e implantação de sistemas,
+              buscando facilitar o uso da tecnologia no dia a dia.
+            </p>
+
           </div>
+
         </div>
-        <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
+
+
+        <!-- 2 -->
+        <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0"
+          data-aos="fade-up"
+          data-aos-delay="200">
+
           <div class="icon-box">
-            <i class="bi bi-headset"></i>
-            <h4><a href="#">Apoio ao Faturamento SUS</a></h4>
+
+            <i class="bi bi-bar-chart-line"></i>
+
+            <h4>
+              <a href="#">Dados e Relatórios</a>
+            </h4>
+
             <p>
-              Contribuição na organização de dados e processos que impactam diretamente o faturamento hospitalar</p>
+              Organização, consolidação e análise de dados para
+              criação de relatórios, indicadores e informações úteis
+              para a gestão.
+            </p>
+
           </div>
+
         </div>
-        <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="400">
+
+
+        <!-- 3 -->
+        <div class="col-md-6 d-flex align-items-stretch mt-4"
+          data-aos="fade-up"
+          data-aos-delay="300">
+
           <div class="icon-box">
-            <i class="bi bi-headset"></i>
-            <h4><a href="#">Desenvolvimento de Sistemas em Saúde</a></h4>
+
+            <i class="bi bi-diagram-3"></i>
+
+            <h4>
+              <a href="#">Processos e Gestão</a>
+            </h4>
+
             <p>
-              Criação de soluções digitais voltadas para controle de atendimentos, cadastro de pacientes e organização hospitalar</p>
+              Análise e organização de processos para reduzir
+              retrabalho, melhorar fluxos e tornar as atividades
+              mais eficientes.
+            </p>
+
           </div>
+
         </div>
+
+
+        <!-- 4 -->
+        <div class="col-md-6 d-flex align-items-stretch mt-4"
+          data-aos="fade-up"
+          data-aos-delay="400">
+
+          <div class="icon-box">
+
+            <i class="bi bi-hospital"></i>
+
+            <h4>
+              <a href="#">Tecnologia para Saúde</a>
+            </h4>
+
+            <p>
+              Experiência em sistemas e processos relacionados à
+              saúde, SUS, cadastros, faturamento e organização
+              das informações hospitalares.
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <!-- 5 -->
+        <div class="col-md-6 d-flex align-items-stretch mt-4"
+          data-aos="fade-up"
+          data-aos-delay="500">
+
+          <div class="icon-box">
+
+            <i class="bi bi-code-slash"></i>
+
+            <h4>
+              <a href="#">Desenvolvimento de Sistemas</a>
+            </h4>
+
+            <p>
+              Desenvolvimento de soluções digitais para necessidades
+              específicas, transformando processos e ideias em
+              ferramentas práticas.
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <!-- 6 -->
+        <div class="col-md-6 d-flex align-items-stretch mt-4"
+          data-aos="fade-up"
+          data-aos-delay="600">
+
+          <div class="icon-box">
+
+            <i class="bi bi-gear-wide-connected"></i>
+
+            <h4>
+              <a href="#">Automação de Processos</a>
+            </h4>
+
+            <p>
+              Automação de tarefas e fluxos para reduzir atividades
+              repetitivas, melhorar a organização e aumentar a
+              produtividade.
+            </p>
+
+          </div>
+
+        </div>
+
       </div>
-    </div>
-  </section><!-- End Services Section -->
-
-  <!-- ======= Cta Section ======= -->
-  <section id="cta" class="cta">
-    <div class="container">
-
-      <!-- <div class="row" data-aos="zoom-in">
-              <div class="col-lg-9 text-center text-lg-start">
-                <h3>Call To Action</h3>
-                <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-              <div class="col-lg-3 cta-btn-container text-center">
-                <a class="cta-btn align-middle" href="#">Call To Action</a>
-              </div>
-            </div> -->
 
     </div>
+
+  </section>
+  <!-- End Services Section -->
+  <!-- ======= Solutions Section ======= -->
+  <section id="solutions" class="services">
+
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+
+        <h2>Soluções</h2>
+
+        <p>
+          Projetos desenvolvidos a partir de necessidades reais,
+          unindo tecnologia, dados e processos.
+        </p>
+
+      </div>
+
+
+      <div class="row">
+
+
+        <!-- BaseClin -->
+        <div class="col-md-6 d-flex align-items-stretch">
+
+          <div class="icon-box">
+
+            <i class="bi bi-hospital"></i>
+
+            <h4>
+              <a href="#">BaseClin</a>
+            </h4>
+
+            <p>
+              Projeto voltado à consolidação, organização e análise
+              de dados hospitalares, funcionando como uma camada
+              intermediária entre diferentes fontes de informação
+              e os dados utilizados para gestão e análise.
+            </p>
+
+            <span class="badge bg-secondary">
+              Em desenvolvimento
+            </span>
+
+          </div>
+
+        </div>
+
+
+        <!-- Follow-OS -->
+        <div class="col-md-6 d-flex align-items-stretch">
+
+          <div class="icon-box">
+
+            <i class="bi bi-clipboard-check"></i>
+
+            <h4>
+              <a href="#">Follow-OS</a>
+            </h4>
+
+            <p>
+              Projeto em desenvolvimento voltado ao acompanhamento
+              e organização de ordens de serviço, atendimentos e
+              atividades realizadas em campo.
+            </p>
+
+            <span class="badge bg-secondary">
+              Em desenvolvimento
+            </span>
+
+          </div>
+
+        </div>
+
+
+      </div>
+
+    </div>
+
   </section>
 
   <!-- ======= Frequently Asked Questions Section ======= -->
@@ -449,7 +759,7 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>Dúvidas frenquentes</h2>
+        <h2>Dúvidas frequentes</h2>
       </div>
 
       <div class="faq-list">
@@ -472,7 +782,7 @@
                 class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
             <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Sim. Atuo no suporte, uso e melhoria de sistemas hospitalares, ajudando equipes a utilizarem corretamente as ferramentas
+                Atuo no suporte, uso e melhoria de sistemas hospitalares, ajudando equipes a utilizarem corretamente as ferramentas
                 no dia a dia.
               </p>
             </div>
@@ -484,7 +794,7 @@
                 class="bx bx-chevron-up icon-close"></i></a>
             <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Sim. Tenho experiência com organização e regularização de dados de pacientes, incluindo processos relacionados ao Cartão SUS, evitando erros que impactam o atendimento e o faturamento.
+                Tenho experiência com organização e regularização de dados de pacientes, incluindo processos relacionados ao Cartão SUS, evitando erros que impactam o atendimento e o faturamento.
               </p>
             </div>
           </li>
@@ -495,7 +805,7 @@
                 class="bx bx-chevron-up icon-close"></i></a>
             <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Sim. Realizo treinamentos práticos voltados para profissionais com pouca familiaridade com tecnologia, facilitando o uso de sistemas no dia a dia.
+                Sim, realizo treinamentos práticos voltados para profissionais com pouca familiaridade com tecnologia, facilitando o uso de sistemas no dia a dia.
               </p>
             </div>
           </li>
@@ -524,10 +834,10 @@
             </div>
           </li>
           <li data-aos="fade-up" data-aos-delay="500">
-            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-6"
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-7"
               class="collapsed">Como erros no cadastro impactam o faturamento SUS? <i
                 class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-            <div id="faq-list-6" class="collapse" data-bs-parent=".faq-list">
+            <div id="faq-list-7" class="collapse" data-bs-parent=".faq-list">
               <p>
                 Erros em dados do paciente, como CNS inválido, CPF incorreto ou inconsistências cadastrais, podem levar à rejeição de
                 produções ou glosas. A qualidade do cadastro é essencial para garantir que os atendimentos sejam processados
@@ -537,21 +847,21 @@
           </li>
 
           <li data-aos="fade-up" data-aos-delay="500">
-            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-6"
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-8"
               class="collapsed">Você atua na prevenção de glosas no SUS? <i
                 class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-            <div id="faq-list-6" class="collapse" data-bs-parent=".faq-list">
+            <div id="faq-list-8" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Sim. A prevenção começa na origem do dado. Trabalho na organização dos processos e orientação das equipes para garantir que as informações sejam registradas corretamente desde o atendimento inicial.
+                Sim, e a prevenção começa na origem do dado. Trabalho na organização dos processos e orientação das equipes para garantir que as informações sejam registradas corretamente desde o atendimento inicial.
               </p>
             </div>
           </li>
 
           <li data-aos="fade-up" data-aos-delay="500">
-            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-6"
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-9"
               class="collapsed">Como melhorar a qualidade dos dados para faturamento? <i
                 class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-            <div id="faq-list-6" class="collapse" data-bs-parent=".faq-list">
+            <div id="faq-list-9" class="collapse" data-bs-parent=".faq-list">
               <p>
                 Através da padronização de cadastros, validação de informações no momento do atendimento e treinamento da equipe.
                 Pequenos ajustes no processo reduzem significativamente erros e retrabalho.
@@ -560,10 +870,10 @@
           </li>
 
           <li data-aos="fade-up" data-aos-delay="500">
-            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-7"
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-10"
               class="collapsed">Você já trabalhou dentro de hospital? <i
                 class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-            <div id="faq-list-7" class="collapse" data-bs-parent=".faq-list">
+            <div id="faq-list-10" class="collapse" data-bs-parent=".faq-list">
               <p>
                 Sim. Minha experiência vem da prática no ambiente hospitalar, lidando diretamente com sistemas, recepção, cadastro de
                 pacientes e desafios operacionais do dia a dia.
