@@ -1,44 +1,91 @@
 <?php
 
-// Verifica se o formulário foi enviado através do método POST
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+// ==========================================================
+// FORMULÁRIO DE CONTATO - GSMICROS
+// ==========================================================
 
-  // Recebe e limpa os dados enviados pelo formulário
-  $name = trim($_POST['nome'] ?? '');
-  $email = trim($_POST['email'] ?? '');
-  $message = trim($_POST['mensagem'] ?? '');
+// Aceita somente requisições POST
+if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+  header('Location: ../index.php#contact');
+  exit;
+}
 
-  // E-mail que receberá as mensagens
-  $to = 'gerente@gsmicros.com.br';
 
-  // Assunto do e-mail
-  $subject = 'Mensagem do formulário de contato';
+// ==========================================================
+// RECEBIMENTO DOS DADOS
+// ==========================================================
 
-  // Monta o conteúdo da mensagem
-  $body = "Nome: $name\n";
-  $body .= "E-mail: $email\n\n";
-  $body .= "Mensagem:\n$message";
+$nome = trim($_POST['nome'] ?? '');
+$email = trim($_POST['email'] ?? '');
+$mensagem = trim($_POST['mensagem'] ?? '');
 
-  // Cabeçalho informando o e-mail de quem enviou
-  $headers = "From: $email\r\n";
-  $headers .= "Reply-To: $email\r\n";
-  $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
 
-  // Tenta enviar o e-mail
-  if (mail($to, $subject, $body, $headers)) {
+// ==========================================================
+// VALIDAÇÃO DOS CAMPOS
+// ==========================================================
 
-    echo '<h2>Sua mensagem foi enviada com sucesso!</h2>';
-    echo '<p>Obrigado pelo contato.</p>';
-    echo '<a href="../index.php">Voltar para o site</a>';
-  } else {
+// Verifica campos vazios
+if ($nome === '' || $email === '' || $mensagem === '') {
+  header('Location: ../index.php?status=empty#contact');
+  exit;
+}
 
-    echo '<h2>Não foi possível enviar sua mensagem.</h2>';
-    echo '<p>Por favor, tente novamente mais tarde.</p>';
-    echo '<a href="../index.php#contact">Voltar para o formulário</a>';
-  }
+
+// Verifica se o e-mail é válido
+if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+  header('Location: ../index.php?status=email#contact');
+  exit;
+}
+
+
+// ==========================================================
+// CONFIGURAÇÃO DO ENVIO
+// ==========================================================
+
+// E-mail que receberá as mensagens
+$destinatario = 'gerente@gsmicros.com.br';
+
+// Assunto da mensagem
+$assunto = 'Mensagem enviada pelo site GSMICROS';
+
+
+// ==========================================================
+// CORPO DA MENSAGEM
+// ==========================================================
+
+$corpo = "Nova mensagem recebida através do site GSMICROS.\n\n";
+
+$corpo .= "Nome: " . $nome . "\n";
+$corpo .= "E-mail: " . $email . "\n\n";
+
+$corpo .= "Mensagem:\n";
+$corpo .= $mensagem;
+
+
+// ==========================================================
+// CABEÇALHOS
+// ==========================================================
+
+// O remetente pertence ao próprio domínio.
+// O Reply-To permite responder diretamente ao visitante.
+$headers = "From: GSMICROS <SEU_EMAIL_AQUI>\r\n";
+$headers .= "Reply-To: " . $email . "\r\n";
+$headers .= "MIME-Version: 1.0\r\n";
+$headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
+
+
+// ==========================================================
+// ENVIO
+// ==========================================================
+
+if (mail($destinatario, $assunto, $corpo, $headers)) {
+
+  // Sucesso
+  header('Location: ../index.php?status=success#contact');
+  exit;
 } else {
 
-  // Impede o acesso direto ao arquivo PHP
-  echo '<h2>Acesso inválido.</h2>';
-  echo '<a href="../index.php#contact">Voltar para o formulário</a>';
+  // Erro
+  header('Location: ../index.php?status=error#contact');
+  exit;
 }

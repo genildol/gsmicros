@@ -1,3 +1,136 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+
+    // Obtém os parâmetros da URL
+    const params = new URLSearchParams(window.location.search);
+
+    // Obtém o status retornado pelo PHP
+    const status = params.get('status');
+
+    // Local onde o alerta será exibido
+    const alertContainer = document.getElementById('contact-alert');
+
+    // Se não houver alerta ou status, encerra
+    if (!alertContainer || !status) {
+      return;
+    }
+
+    let alertHTML = '';
+
+
+    // ==========================================================
+    // SUCESSO
+    // ==========================================================
+
+    if (status === 'success') {
+
+      alertHTML = `
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                <strong>Mensagem enviada!</strong>
+                Sua mensagem foi enviada com sucesso. Obrigado pelo contato.
+
+                <button type="button"
+                        class="close"
+                        data-dismiss="alert"
+                        aria-label="Fechar">
+
+                    <span aria-hidden="true">&times;</span>
+
+                </button>
+            </div>
+        `;
+
+    }
+
+
+    // ==========================================================
+    // ERRO NO ENVIO
+    // ==========================================================
+    else if (status === 'error') {
+
+      alertHTML = `
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <strong>Não foi possível enviar.</strong>
+                Ocorreu um problema ao enviar sua mensagem.
+                Tente novamente mais tarde.
+
+                <button type="button"
+                        class="close"
+                        data-dismiss="alert"
+                        aria-label="Fechar">
+
+                    <span aria-hidden="true">&times;</span>
+
+                </button>
+            </div>
+        `;
+
+    }
+
+
+    // ==========================================================
+    // CAMPOS VAZIOS
+    // ==========================================================
+    else if (status === 'empty') {
+
+      alertHTML = `
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                <strong>Atenção!</strong>
+                Preencha todos os campos antes de enviar.
+
+                <button type="button"
+                        class="close"
+                        data-dismiss="alert"
+                        aria-label="Fechar">
+
+                    <span aria-hidden="true">&times;</span>
+
+                </button>
+            </div>
+        `;
+
+    }
+
+
+    // ==========================================================
+    // E-MAIL INVÁLIDO
+    // ==========================================================
+    else if (status === 'email') {
+
+      alertHTML = `
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                <strong>E-mail inválido!</strong>
+                Informe um endereço de e-mail válido.
+
+                <button type="button"
+                        class="close"
+                        data-dismiss="alert"
+                        aria-label="Fechar">
+
+                    <span aria-hidden="true">&times;</span>
+
+                </button>
+            </div>
+        `;
+
+    }
+
+
+    // Exibe o alerta
+    alertContainer.innerHTML = alertHTML;
+
+
+    // Remove os parâmetros da URL
+    // mantendo o usuário na seção de contato.
+    window.history.replaceState({},
+      document.title,
+      window.location.pathname + '#contact'
+    );
+
+  });
+</script>
+
+
 <section id="hero" class="d-flex justify-cntent-center align-items-center">
   <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
 
@@ -454,60 +587,76 @@
 
       <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
 
+        <!-- Informações de contato -->
         <div class="col-lg-5">
+
           <div class="info">
+
             <div class="address">
               <i class="bi bi-geo-alt"></i>
               <h4>Localização:</h4>
-              <p> Ouricur-PE, Brasil</p>
+              <p>Ouricuri-PE, Brasil</p>
             </div>
 
             <div class="email">
               <i class="bi bi-envelope"></i>
               <h4>Email:</h4>
-              <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+              <a href="mailto:gerente@gsmicros.com.br">
                 <p><strong>Envie um E-mail</strong></p>
               </a>
-
             </div>
 
           </div>
 
         </div>
 
-        <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
+        <!-- Formulário -->
+        <div class="col-lg-6 mt-5 mt-lg-0"
+          data-aos="fade-left"
+          data-aos-delay="100">
+
           <div class="row">
+
             <div class="col-md-10">
+
+              <!-- Área onde os alertas serão exibidos -->
+              <div id="contact-alert"></div>
 
               <form action="./forms/contact.php" method="post">
 
                 <div class="form-group">
                   <label for="nome">Nome:</label>
+
                   <input
                     type="text"
                     class="form-control"
                     id="nome"
                     name="nome"
-                    required>
+                    required
+                    maxlength="100">
                 </div>
 
                 <div class="form-group">
                   <label for="email">Email:</label>
+
                   <input
                     type="email"
                     class="form-control"
                     id="email"
                     name="email"
-                    required>
+                    required
+                    maxlength="150">
                 </div>
 
                 <div class="form-group">
                   <label for="mensagem">Mensagem:</label>
+
                   <textarea
                     class="form-control"
                     id="mensagem"
                     name="mensagem"
                     rows="5"
+                    maxlength="2000"
                     required></textarea>
                 </div>
 
@@ -522,13 +671,13 @@
             </div>
 
           </div>
+
         </div>
-
-
 
       </div>
 
     </div>
   </section>
+
 
 </main>
