@@ -129,7 +129,12 @@
 
   });
 </script>
+<title>GSMICROS | Tecnologia, Sistemas, Dados e Processos</title>
 
+<meta name="description"
+  content="GSMICROS: tecnologia, sistemas, dados, automação e organização de processos, com experiência prática em tecnologia aplicada à saúde.">
+
+<link rel="canonical" href="https://www.gsmicros.com.br/">
 
 <section id="hero" class="d-flex justify-cntent-center align-items-center">
   <!-- ======= Hero Section ======= -->

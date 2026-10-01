@@ -30,14 +30,13 @@
 
         <div class="col-lg-3 col-md-6 footer-contact">
           <h4>Contato</h4>
-          <p>
-            Canacuí <br>
-            Ouricuri, PE<br>
-            Brasil <br><br>
+          <p>Atendimento: </p>
+          <p>Atendimento remoto e sob demanda<br>
+          <p>Atendimento remoto para empresas e profissionais,
+            com possibilidade de atuação presencial conforme a necessidade do projeto.</p>
           </p>
           <!-- <strong>Fone:</strong> +55 87 99925-5002<br>
               <strong>Email:</strong> contato@gsmicros.com.br<br> -->
-
 
         </div>
 
