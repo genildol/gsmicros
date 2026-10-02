@@ -136,7 +136,7 @@
                 <h2 class="entry-title">
                   <a href="?page="></a>
                 </h2>
-                <h3><a href="?page=faturamento">Processos e Fluxo Hospitalar</a></h3>
+                <h3><a href="?page=">Processos e Fluxo Hospitalar</a></h3>
                 <p>Cada setor dentro de um hospital depende de outro. Quando o fluxo não funciona corretamente, surgem filas, atrasos, informações incorretas e dificuldades no atendimento.</p>
                 <h6>Serão abordados temas como:</h6>
 
@@ -156,7 +156,7 @@
                 <h2 class="entry-title">
                   <a href="?page="></a>
                 </h2>
-                <h3><a href="">Cadastro e SUS</a></h3>
+                <h3><a href="?page=cadastro-sus">Cadastro e SUS</a></h3>
                 <p>O cadastro correto do paciente é uma das bases do funcionamento do SUS. Informações inconsistentes podem afetar atendimentos, exames, regulação, faturamento e diversos outros processos.</p>
                 <h6>Aqui serão compartilhados conteúdos sobre:</h6>
                 <ul>

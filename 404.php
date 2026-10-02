@@ -9,10 +9,10 @@
         <li>
           <h1 class="text-danger"><strong> ERRO - Página não encontrada</strong></h1>
         </li>
-        
+
       </ol>
 
-        <h2>Essa página não foi encontrada</h2>
+      <h2>Essa página não foi encontrada</h2>
     </div>
   </section><!-- End Breadcrumbs -->
 
@@ -35,12 +35,11 @@
             </h1>
 
             <div class="entry-content">
-              <p>
-                Clique nos links ao lado para acessar nossas páginas e saiba mais sobre matérias relacionadas a tecnologia voltada a saúde hospitalar e informática. Em breve, teremos mais conteúdos para você! Fique atento às nossas redes sociais para não perder nenhuma novidade.
-              </p>
+              <h1 class="text-danger"><strong> ERRO - Página não encontrada</strong></h1>
+              <h3>
 
-
-
+                Clique nos links ao lado para acessar nossas páginas e saiba mais sobre matérias relacionadas a tecnologia voltada a saúde hospitalar e tecnologia.
+              </h3>
 
           </article>
           <!-- End blog entry -->
@@ -52,7 +51,7 @@
             </div>
 
             <h2 class="entry-title">
-              <a href="blog-single.html">SGOP - Sistema de Gestão de Operadores (CADSUS WEB)</a>
+              <a href="?page=home">Error 404 - Clique aqui para voltar à página inicial</a>
             </h2>
 
         </div>
