@@ -83,6 +83,36 @@
               <p>Outra função importante da organização de processos hospitalares é identificar serviços desorganizados e reorganizá-los. Em muitos hospitais, com o tempo, alguns setores passam a funcionar “no improviso”, sem padrão definido. Isso pode acontecer por crescimento rápido da instituição, falta de liderança, ausência de treinamento ou resistência a mudanças.</p>
               <p>Exemplos de serviços fora de ordem:</p>
 
+              <ul>
+                <li>Exames sendo realizados sem autorização prévia;</li>
+                <li>Prontuários chegando incompletos ao faturamento;</li>
+                <li>Pacientes indo ao consultório sem triagem;</li>
+                <li>Setores sem comunicação entre si;</li>
+                <li>Pedidos médicos perdidos ou duplicados;</li>
+                <li>Materiais sendo solicitados sem controle de estoque;</li>
+                <li>Informações anotadas em papel e não lançadas no sistema.</li>
+              </ul>
+
+              <p>Nesses casos, a organização de processos atua para:</p>
+
+              <ul>
+                <ol>Mapear o fluxo atual (entender o serviço realmente funciona hoje);</ol>
+                <ol>Identificar gargalos e falhas;</ol>
+                <ol>Definir um fluxo ideal;</ol>
+                <ol>Padronizar procedimentos;</ol>
+                <ol>Treinar as equipes;</ol>
+                <ol>Acompanhar os resultados e corrigir desvios.</ol>
+              </ul>
+
+              <p>Ou seja, não basta apenas “arrumar a bagunça”. É preciso entender por que o processo ficou desorganizado e criar uma estrutura sustentável para que ele continue funcionando corretamente.</p>
+
+              <h2 class="entry-title">
+                Colocar serviços em prioridade ou analisar primeiro?
+              </h2>
+
+              <p>Além de organizar a sequência dos processos, a organização hospitalar também define prioridades. Nem todos os atendimentos têm a mesma urgência. Por isso, é necessário classificar os casos e determinar quais serviços devem ser analisados primeiro.</p>
+
+              <p>Muitas instituições cometem o erro de tentar resolver tudo ao mesmo tempo ou definir prioridades sem entender o impacto real de cada problema. A organização de processos hospitalares deve seguir uma lógica estruturada.</p>
 
 
 
