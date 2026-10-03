@@ -105,19 +105,118 @@
               </ul>
 
               <p>Ou seja, não basta apenas “arrumar a bagunça”. É preciso entender por que o processo ficou desorganizado e criar uma estrutura sustentável para que ele continue funcionando corretamente.</p>
-
+              <hr>
               <h2 class="entry-title">
                 Colocar serviços em prioridade ou analisar primeiro?
               </h2>
 
-              <p>Além de organizar a sequência dos processos, a organização hospitalar também define prioridades. Nem todos os atendimentos têm a mesma urgência. Por isso, é necessário classificar os casos e determinar quais serviços devem ser analisados primeiro.</p>
+              <p>A resposta correta é: <strong>primeiro analisar, depois priorizar e organizar.</strong></p>
 
               <p>Muitas instituições cometem o erro de tentar resolver tudo ao mesmo tempo ou definir prioridades sem entender o impacto real de cada problema. A organização de processos hospitalares deve seguir uma lógica estruturada.</p>
+
+              <strong>1. Analisar os serviços e processos</strong>
+              <p>O primeiro passo é fazer um diagnóstico da situação atual. Isso inclui:</p>
+              <ul>
+                <li>Quais processos existem no setor?</li>
+                <li>Como eles funcionam hoje?</li>
+                <li>Onde estão os atrasos/</li>
+                <li>Quais erros acontecem com frequência?</li>
+                <li>Quais processos geram mais reclamação?</li>
+                <li>Quais atividades dependem umas das outras?</li>
+                <li>Quais serviços impactam diretamente o paciente?</li>
+              </ul>
+              <p>Nessa fase, é importante ouvir os profissionais da operação, observar a rotina e coletar dados reais do setor.</p>
+
+              <strong>2. Identificar prioridades</strong>
+              <p>Depois da análise, os processos devem ser classificados por prioridade. Nem tudo precisa ser resolvido primeiro. A prioridade deve considerar:</p>
+
+              <ul>
+                <li><strong>Impacto no paciente;</strong>(segurança, tempo de espera, qualidade do atendimento);</li>
+                <li><strong>Impacto operacional;</strong>(gargalos, retrabalho, paralisações);</li>
+                <li><strong>Impacto financeiro;</strong>(perdas, glosas, desperdícios);</li>
+                <li><strong>Urgência do problema;</strong>(prazo de resolução, impacto imediato);</li>
+                <li><strong>Dependência entre processos;</strong>(relações de causa e efeito);</li>
+                <li><strong>Impacto regulatório;</strong>(conformidade com leis e normas);</li>
+              </ul>
+
+              <p>Por exemplo, problemas no cadastro e no prontuário eletrônico costumam ter alta prioridade porque afetam praticamente todos os setores do hospital.</p>
+
+              <strong>3. Organizar e implementar melhorias</strong>
+              <p>Somente após a análise e definição de prioridades é que a organização deve ser implementada. Isso envolve:</p>
+              <ul>
+                <li>Criar fluxos padronizados;</li>
+                <li>Definir responsáveis por casa etapa;</li>
+                <li>Estabelecer prazos e prioridades;</li>
+                <li>Documentar procedimentos operacionais;</li>
+                <li>Treinar equipes;</li>
+                <li>Utilizar sistemas hospitalares corretamente;</li>
+                <li>Acompanhar indicadores e resultados;</li>
+              </ul>
+              <p></p>
+
+              <hr>
+              <h2 class="entry-title">
+                Exemplo prático de organização de processos hospitalares
+              </h2>
+              <strong>Situação inicial</strong>
+              <p>Um hospital enfrenta os seguintes problemas no setor de atendimento:</p>
+              <ul>
+                <li>Pacientes aguardando muito tempo;</li>
+                <li>Exames atrasados;</li>
+                <li>Prontuários incompletos;</li>
+                <li>Faturamento devolvendo contas por erro;</li>
+                <li>Faturamento devolvendo contas por erro;</li>
+              </ul>
+
+              <strong>Etapa 1: Análise</strong>
+              <p>Ao mapear o processo, descobre-se que:</p>
+              <ul>
+                <li>O cadastro é feito incompleto;</li>
+                <li>A triagem não segue ordem de chegada nem classificação de risco;</li>
+                <li>Pedidos médicos são entregues em papel e se perdem;</li>
+                <li>Exames são solicitados sem conferência no sistema.</li>
+              </ul>
+
+              <strong></strong>
+              <p></p>
+              <ul>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              </ul>
+
+              <strong></strong>
+              <p></p>
+              <ul>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              </ul>
+              
+              <strong></strong>
+              <p></p>
+              <ul>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              </ul>
+
+
+
+
+
+
+
 
 
 
             </article>
-
           </div>
 
           <!-- End blog entry -->
