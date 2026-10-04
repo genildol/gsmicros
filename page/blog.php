@@ -240,50 +240,46 @@
               <div class="sidebar-item recent-posts">
                 <div class="post-item clearfix">
                   <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/blog/blog-2.jpg" alt="">
-                  <h4><a href="#gratuitos">Aulas Gratuitos</a></h4>
+                  <h4><a href="?page=capacitacaooperacional">Capacitação operacional</a></h4>
                   <div class="texto">
-                    <h4> Estou disponibilizando aulas gratuitas...</h4>
+                    <h4>Falta de capacitação operacional...</h4>
                   </div>
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/links/google.webp" alt="">
-                  <h4><a href="#contagoogle">A sua conta Google</a></h4>
+                  <!-- <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/links/google.webp" alt=""> -->
+                  <h4><a href="?page=pequenasgrandesfalhas">Pequenas falhas...</a></h4>
                   <div class="texto">
-                    <h4>Dicas importantes sobre a sua conta do Google que você não sabe</h4>
+                    <h4>Como pequenas falhas geram grandes problemas</h4>
                   </div>
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/blog/govbr.webp" alt="">
-                  <h4><a
-                      href="https://"
-                      target="_blank">Porque sua conta Gov é tão...</a></h4>
+                  <!-- <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/blog/govbr.webp" alt=""> -->
+                  <h4><a href="?page=resistenciauso" target="_blank">Resistência ao uso...</a></h4>
                   <div class="texto">
-                    <h4>Entenda porque sua conta GovBr é tão importante para sua segurança digital</h4>
+                    <h4>Resistência ao uso correto dos sistemas</h4>
                   </div>
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/whatsapp.jpg" alt="">
-                  <h4><a href="#whatsapp">O WhatsApp, da Meta, concordou em ser mais transparent</a></h4>
+                  <!-- <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/whatsapp.jpg" alt=""> -->
+                  <h4><a href="?page=problemasignorados" target="_blank">Problemas ignorados pela...</a></h4>
                   <div class="texto">
-                    <h4>WhatsApp concorda em ser mais transparente com mudanças sobre políticas de privacidade, diz UE
-                    </h4>
+                    <h4>Problemas ignorados pela gestão</h4>
                   </div>
                 </div>
                 <div class="post-item clearfix">
-                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/golpeinternet.jpg" alt="">
-                  <h4><a href="#golpeinternet">Dicas para você não cair em golpes na internet</a></h4>
+                  <!-- <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/golpeinternet.jpg" alt=""> -->
+                  <h4><a href="?page=comunicacaotoxica">Comunicação tóxica entre ...</a></h4>
                   <div class="texto">
-                    <h4>Segurança na rede e privacidade de seus dados: Dicas para se proteger e evitar golpes</h4>
+                    <h4>Comunicação tóxica entre setores </h4>
                   </div>
                   <div class="post-item clearfix">
-                    <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/links/amente.svg" alt="">
-                    <h4><a href="https://amenteemaravilhosa.com.br/" target="_blank">A mente é maravilhosa</a></h4>
+                    <!-- <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/links/amente.svg" alt=""> -->
+                    <h4><a href="?page=impactonopaciente" target="_blank">O impacto disso tudo no...</a></h4>
                     <div class="texto">
-                      <h4>Se você gosta de ler artigos sobre psicologia, educação, trabalho, relações e muito mais, esse
-                        site é para você.</h4>
+                      <h4>O impacto disso tudo no paciente</h4>
                     </div>
                   </div>
                 </div>

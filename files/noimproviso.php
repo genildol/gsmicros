@@ -6,9 +6,9 @@
 
         <ol>
           <li><a href="index.html">Home</a></li>
-          <li>Blog GS Micros - Treinamentos</li>
+          <li>BLOG - GSMICROS - <strong>FATURAMENTO</strong></li>
         </ol>
-        <h1>TREINAMENTO DE EQUIPES</h1>
+        <h2>Vamos conhecer em detalhe alguns dos sistemas do Ministério da Saúde</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -28,7 +28,6 @@
               </div>
 
               <h2 class="entry-title">
-
                 <a href="blog.html">CNES - Cadastro Nacional de Estabelecimentos de Saúde</a>
               </h2>
 

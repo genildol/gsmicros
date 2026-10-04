@@ -5,8 +5,9 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.html">Home</a></li>
-          <li>Blog GS Micros</li>
+          <li><a href="?page=home">Home</a></li>
+          <li><a href="?page=blog">Voltar</a></li>
+          <li>Blog GSMICROS</li>
         </ol>
         <h2>Vamos conhecer em detalhe alguns dos sistemas do Ministério da Saúde</h2>
 

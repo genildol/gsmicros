@@ -47,7 +47,7 @@
 
             <!-- Dados e Relatórios -->
             <li>
-              <a href="?page=dados">
+              <a href="?page=dadosrelatorios">
                 Dados e Relatórios
               </a>
             </li>
