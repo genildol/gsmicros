@@ -129,7 +129,17 @@
 
   });
 </script>
-<title>GSMICROS | Tecnologia, Sistemas, Dados e Processos</title>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "GSMICROS",
+    "alternateName": "GS Micros",
+    "url": "https://www.gsmicros.com.br/"
+  }
+</script>
+<title>GSMICROS | Tecnologia, dados e processos para transformar desafios em soluções</title>
 
 <meta name="description"
   content="GSMICROS: tecnologia, sistemas, dados, automação e organização de processos, com experiência prática em tecnologia aplicada à saúde.">
@@ -155,8 +165,8 @@
           </h2>
 
           <p class="animate__animated animate__fadeInUp">
-            Soluções digitais pensadas para a realidade de empresas,
-            profissionais e organizações.
+            Soluções em tecnologia, sistemas, dados, automação e processos
+            para empresas, profissionais e organizações.
           </p>
 
           <a href="#services"
@@ -568,8 +578,8 @@
               <a href="#">Dados e Relatórios</a>
             </h4>
 
-            <p>Organização, consolidação e análise de dados para criação de
-              relatórios, indicadores e informações para tomada de decisão.
+            <p>Organização, consolidação e análise de dados para criação de relatórios,
+              indicadores e informações que auxiliam na tomada de decisão.
             </p>
 
           </div>
@@ -611,13 +621,12 @@
             <i class="bi bi-hospital"></i>
 
             <h4>
-              <a href="#">Tecnologia para Saúde</a>
+              <a href="#">Tecnologia aplicada à Saúde</a>
             </h4>
 
             <p>
-              Experiência em sistemas e processos relacionados à
-              saúde, SUS, cadastros, faturamento e organização
-              das informações hospitalares.
+              Soluções e orientação em sistemas, dados e processos para a área
+              da saúde, com experiência prática em ambiente hospitalar e SUS.
             </p>
 
           </div>
@@ -635,13 +644,12 @@
             <i class="bi bi-code-slash"></i>
 
             <h4>
-              <a href="#">Desenvolvimento de Sistemas</a>
+              <a href="#">Automação e Desenvolvimento</a>
             </h4>
 
             <p>
-              Desenvolvimento de soluções digitais para necessidades
-              específicas, transformando processos e ideias em
-              ferramentas práticas.
+              Desenvolvimento de sistemas, ferramentas e automações para
+              simplificar tarefas, integrar informações e melhorar processos.
             </p>
 
           </div>

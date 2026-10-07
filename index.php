@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>GSMICROS | Tecnologia, Sistemas, Dados e Processos</title>
+  <title>GSMICROS | Tecnologia, dados e processos para transformar desafios em soluções</title>
 
   <meta name="description"
     content="GSMICROS: tecnologia, sistemas, dados, automação e organização de processos, com experiência prática em tecnologia aplicada à saúde.">
