@@ -9,9 +9,9 @@
         <priority>1.0</priority>
     </url>
 
-    <!-- Página de implantação e suporte ao CadSUS -->
+    <!-- Gestão de Processos Hospitalares -->
     <url>
-        <loc>https://www.gsmicros.com.br/?page=implantacao</loc>
+        <loc>https://www.gsmicros.com.br/?page=gestaoprohos</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -37,9 +37,9 @@
         <priority>0.8</priority>
     </url>
 
-    <!-- Apoio ao faturamento SUS -->
+    <!-- Tecnologia e Sistemas na Área da Saúde -->
     <url>
-        <loc>https://www.gsmicros.com.br/?page=apoio</loc>
+        <loc>https://www.gsmicros.com.br/?page=tecnologia</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>

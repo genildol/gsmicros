@@ -546,8 +546,8 @@
             </h4>
 
             <p>
-              Suporte, orientação e implantação de sistemas,
-              buscando facilitar o uso da tecnologia no dia a dia.
+              Soluções em tecnologia e sistemas para organizar informações,
+              melhorar processos e apoiar as necessidades reais de cada organização.
             </p>
 
           </div>
@@ -568,10 +568,8 @@
               <a href="#">Dados e Relatórios</a>
             </h4>
 
-            <p>
-              Organização, consolidação e análise de dados para
-              criação de relatórios, indicadores e informações úteis
-              para a gestão.
+            <p>Organização, consolidação e análise de dados para criação de
+              relatórios, indicadores e informações para tomada de decisão.
             </p>
 
           </div>

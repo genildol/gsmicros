@@ -838,7 +838,6 @@
   </p>
             </article>
 
-
           </div>
           <!-- End blog entries list -->
 
@@ -846,7 +845,7 @@
 
             <div class="sidebar">
 
-              <h3 class="sidebar-title">Cursos em breve</h3>
+              <h3 class="sidebar-title">Você pode gostar disso:</h3>
               <div class="sidebar-item categories">
                 <ul>
                   <li><a href="#">Introução a Informática <span></span></a></li>

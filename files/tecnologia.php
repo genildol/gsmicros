@@ -586,7 +586,7 @@
 
             <div class="sidebar">
 
-              <h3 class="sidebar-title">Cursos em breve</h3>
+              <h3 class="sidebar-title">Veja isso também:</h3>
               <div class="sidebar-item categories">
                 <ul>
                   <li><a href="#">Introução a Informática <span></span></a></li>

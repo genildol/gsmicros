@@ -94,7 +94,7 @@
 
             <!-- Automação e Desenvolvimento -->
             <li>
-              <a href="?page=automacao">
+              <a href="?page=automacaodesenv">
                 Automação e Desenvolvimento
               </a>
             </li>
