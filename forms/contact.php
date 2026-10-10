@@ -43,7 +43,7 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 // ==========================================================
 
 // E-mail que receberá as mensagens
-$destinatario = 'gerente@gsmicros.com.br';
+$destinatario = 'contato@gsmicros.com.br';
 
 // Assunto da mensagem
 $assunto = 'Mensagem enviada pelo site GSMICROS';

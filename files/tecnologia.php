@@ -25,12 +25,12 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="../assets/img/saude/cnesus.jpg" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/tecnologia.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
 
-                <a href="blog.html">Tecnologia e Sistemas na Área da Saúde</a>
+                <a href="?page=blog">Tecnologia e Sistemas na Área da Saúde</a>
               </h2>
 
               <div class="entry-content">
@@ -65,12 +65,9 @@
 
             <article class="entry">
 
-              <div class="entry-img">
-                <img src="../assets/img/saude/sigtap.jpg" alt="" class="img-fluid">
-              </div>
               <h2 class="entry-title">
 
-                <a href="blog.html">Sistemas hospitalares e a organização das informações</a>
+                <a href="?page=blog">Sistemas hospitalares e a organização das informações</a>
               </h2>
               <div class="entry-content">
                 <p>
@@ -102,11 +99,8 @@
             </article><!-- End blog entry -->
             <article class="entry">
 
-              <div class="entry-img">
-                <img src="../assets/img/saude/bpa.png" alt="" class="img-fluid">
-              </div>
               <h2 class="entry-title">
-                <a href="blog.html">O problema dos controles paralelos</a>
+                <a href="?page=blog">O problema dos controles paralelos</a>
               </h2>
 
               <p>
@@ -139,11 +133,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">A importância da qualidade dos dados</a>
+                <a href="?page=blog">A importância da qualidade dos dados</a>
               </h2>
               <p>
                 Não basta possuir muitos dados. É necessário possuir <strong>dados confiáveis</strong>.
@@ -185,11 +177,8 @@
 
             <article class="entry">
 
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
               <h2 class="entry-title">
-                <a href="blog-single.html">Tecnologia como apoio à gestão</a>
+                <a href="?page=blog">Tecnologia como apoio à gestão</a>
               </h2>
               <p>
                 Quando utilizada corretamente, a tecnologia permite que gestores tenham acesso a informações
@@ -229,12 +218,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Sistemas precisam acompanhar os processos</a>
+                <a href="?page=blog">Sistemas precisam acompanhar os processos</a>
               </h2>
               <p>
                 Outro ponto fundamental é compreender que <strong>o sistema deve apoiar o processo</strong>,
@@ -275,12 +261,9 @@
 
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">A resistência dos profissionais</a>
+                <a href="?page=blog">A resistência dos profissionais</a>
               </h2>
               <p>
                 Mesmo quando uma tecnologia é adequada, sua implantação pode enfrentar resistência. É comum
@@ -306,12 +289,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Capacitação é parte da tecnologia</a>
+                <a href="?page=blog">Capacitação é parte da tecnologia</a>
               </h2>
               <p>
                 Um sistema só é realmente útil quando as pessoas conseguem utilizá-lo corretamente. Por isso,
@@ -344,11 +324,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Tecnologia e segurança da informação</a>
+                <a href="?page=blog">Tecnologia e segurança da informação</a>
               </h2>
               <p>
                 Quando utilizada corretamente, a tecnologia permite que gestores tenham acesso a informações
@@ -388,11 +366,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Integração entre sistemas</a>
+                <a href="?page=blog">Integração entre sistemas</a>
               </h2>
               <p>
                 Outro grande desafio da área da saúde é a integração. Uma instituição pode utilizar diferentes
@@ -418,12 +394,9 @@
 
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">Tecnologia não substitui pessoas</a>
+                <a href="?page=blog">Tecnologia não substitui pessoas</a>
               </h2>
               <p>
                 Na área da saúde, a tecnologia possui ainda uma responsabilidade adicional:
@@ -458,12 +431,9 @@
 
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
 
               <h2 class="entry-title">
-                <a href="blog-single.html">O verdadeiro valor da tecnologia na saúde</a>
+                <a href="?page=blog">O verdadeiro valor da tecnologia na saúde</a>
               </h2>
               <p>
                 O verdadeiro valor da tecnologia não está simplesmente na quantidade de sistemas que uma
@@ -495,11 +465,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Tecnologia, processos e pessoas</a>
+                <a href="?page=blog">Tecnologia, processos e pessoas</a>
               </h2>
               <p>
                 A tecnologia representa as ferramentas, sistemas, equipamentos, infraestrutura e soluções
@@ -536,12 +504,8 @@
 
             <article class="entry">
 
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
-
               <h2 class="entry-title">
-                <a href="blog-single.html">Conclusão</a>
+                <a href="?page=blog">Conclusão</a>
               </h2>
 
               <p>
@@ -589,14 +553,14 @@
               <h3 class="sidebar-title">Veja isso também:</h3>
               <div class="sidebar-item categories">
                 <ul>
-                  <li><a href="#">Introução a Informática <span></span></a></li>
-                  <li><a href="#">Atalhos e Dicas do Windows <span></span></a></li>
-                  <li><a href="#">Navegadores de Internet <span></span></a></li>
-                  <li><a href="#">Corrêio eletrônico <span></span></a></li>
-                  <li><a href="#">Microsoft Word <span></span></a></li>
-                  <li><a href="#">Microsoft Excel <span></span></a></li>
-                  <li><a href="#">Microsoft PowerPoint <span></span></a></li>
-                  <li><a href="#">Material didático <span></span></a></li>
+                  <li><a href="?page=blog">Introução a Informática <span></span></a></li>
+                  <li><a href="?page=blog">Atalhos e Dicas do Windows <span></span></a></li>
+                  <li><a href="?page=blog">Navegadores de Internet <span></span></a></li>
+                  <li><a href="?page=blog">Corrêio eletrônico <span></span></a></li>
+                  <li><a href="?page=blog">Microsoft Word <span></span></a></li>
+                  <li><a href="?page=blog">Microsoft Excel <span></span></a></li>
+                  <li><a href="?page=blog">Microsoft PowerPoint <span></span></a></li>
+                  <li><a href="?page=blog">Material didático <span></span></a></li>
                 </ul>
               </div><!-- End sidebar categories-->
 

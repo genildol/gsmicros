@@ -25,12 +25,12 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="../assets/img/saude/cnesus.jpg" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/dadosrelatorios.jpg" alt="" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
 
-                <a href="blog.html">Dados e Relatórios na Área da Saúde</a>
+                <a href="?page=blog">Dados e Relatórios na Área da Saúde</a>
               </h2>
 
               <p>
@@ -63,12 +63,8 @@
 
             <article class="entry">
 
-              <div class="entry-img">
-                <img src="../assets/img/saude/sigtap.jpg" alt="" class="img-fluid">
-              </div>
-
               <h2 class="entry-title">
-                <a href="blog-single.html">Dados não são apenas números</a>
+                <a href="?page=blog">Dados não são apenas números</a>
               </h2>
               <p>
                 Quando falamos em dados dentro de uma instituição de saúde, muitas pessoas pensam
@@ -109,12 +105,8 @@
             </article><!-- End blog entry -->
             <article class="entry">
 
-              <div class="entry-img">
-                <img src="../assets/img/saude/bpa.png" alt="" class="img-fluid">
-              </div>
-
               <h2 class="entry-title">
-                <a href="blog-single.html">Qual é a diferença entre dado e informação?</a>
+                <a href="?page=blog">Qual é a diferença entre dado e informação?</a>
               </h2>
               <p>
                 Embora os termos sejam frequentemente utilizados como sinônimos, existe uma diferença
@@ -157,12 +149,8 @@
             </article>
             <article class="entry">
 
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
-
               <h2 class="entry-title">
-                <a href="blog-single.html">A importância da qualidade dos dados</a>
+                <a href="?page=blog">A importância da qualidade dos dados</a>
               </h2>
               <p>
                 Antes de produzir qualquer relatório ou indicador, é necessário garantir que os dados
@@ -200,11 +188,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">O problema do “lixo entra, lixo sai”</a>
+                <a href="?page=blog">O problema do “lixo entra, lixo sai”</a>
               </h2>
               <p>
                 Existe um conceito bastante conhecido na área de dados: <strong>“lixo entra, lixo sai”</strong>.
@@ -233,11 +219,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">O que são relatórios hospitalares?</a>
+                <a href="?page=blog">O que são relatórios hospitalares?</a>
               </h2>
               <p>
                 Relatórios hospitalares são documentos, telas ou ferramentas utilizadas para apresentar
@@ -276,11 +260,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Um relatório precisa responder alguma pergunta</a>
+                <a href="?page=blog">Um relatório precisa responder alguma pergunta</a>
               </h2>
               <p>
                 Um dos principais problemas encontrados na produção de relatórios é a criação de documentos
@@ -339,11 +321,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Indicadores: transformando dados em acompanhamento de resultados</a>
+                <a href="?page=blog">Indicadores: transformando dados em acompanhamento de resultados</a>
               </h2>
               <p>
                 Os indicadores são ferramentas fundamentais para transformar dados em acompanhamento de
@@ -378,11 +358,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">O perigo de analisar apenas um número</a>
+                <a href="?page=blog">O perigo de analisar apenas um número</a>
               </h2>
               <p>
                 Um número isolado raramente explica toda a realidade.
@@ -411,11 +389,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Dashboards e visualização de dados</a>
+                <a href="?page=blog">Dashboards e visualização de dados</a>
               </h2>
               <p>
                 Com o crescimento da quantidade de informações disponíveis, tornou-se cada vez mais importante
@@ -453,11 +429,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Dados para tomada de decisão</a>
+                <a href="?page=blog">Dados para tomada de decisão</a>
               </h2>
               <p>
                 Uma das maiores vantagens de uma boa estrutura de dados é permitir que a gestão tome decisões
@@ -488,11 +462,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Dados também ajudam a encontrar problemas escondidos</a>
+                <a href="?page=blog">Dados também ajudam a encontrar problemas escondidos</a>
               </h2>
               <p>
                 Nem todos os problemas de uma instituição são percebidos facilmente no dia a dia.
@@ -520,11 +492,9 @@
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">O custo dos dados incorretos</a>
+                <a href="?page=blog">O custo dos dados incorretos</a>
               </h2>
               <p>
                 Dados incorretos não geram apenas relatórios ruins. Eles podem gerar decisões equivocadas.
@@ -546,11 +516,9 @@
               </p>
             </article>
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">A importância da padronização</a>
+                <a href="?page=blog">A importância da padronização</a>
               </h2>
               <p>
                 Para produzir relatórios confiáveis, é necessário padronizar a forma como as informações são
@@ -581,261 +549,247 @@
                 suas informações.
               </p>
             </article>
-            
-            <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
-              <h2 class="entry-title">
-                <a href="blog-single.html">Quando existem muitos relatórios, mas pouca informação útil</a>
-              </h2>
-          <p>
-              Outro problema comum é a existência de uma grande quantidade de relatórios que ninguém
-              realmente utiliza.
-            </p>
-
-            <p>
-              Algumas instituições continuam produzindo determinados documentos simplesmente porque sempre
-              foram produzidos daquela maneira.
-            </p>
-
-            <p>
-              Isso gera trabalho desnecessário e pode consumir horas dos profissionais responsáveis pela
-              extração e organização dessas informações.
-            </p>
-
-            <p>
-              Periodicamente, é importante avaliar:
-            </p>
-
-            <ul>
-              <li>Quais relatórios realmente são utilizados?</li>
-              <li>Quem utiliza cada relatório?</li>
-              <li>Qual decisão ele ajuda a tomar?</li>
-              <li>Os dados apresentados ainda são necessários?</li>
-              <li>É possível automatizar sua geração?</li>
-              <li>Existem relatórios duplicados?</li>
-              <li>Existe alguma informação importante que ainda não está sendo acompanhada?</li>
-            </ul>
-
-            <p>
-              Dessa forma, a instituição consegue reduzir relatórios desnecessários e concentrar esforços
-              naquilo que realmente produz valor.
-            </p>
-
-            </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Automatização de relatórios</a>
+                <a href="?page=blog">Quando existem muitos relatórios, mas pouca informação útil</a>
               </h2>
               <p>
-    A tecnologia também permite automatizar grande parte do processo de geração de relatórios.
-  </p>
+                Outro problema comum é a existência de uma grande quantidade de relatórios que ninguém
+                realmente utiliza.
+              </p>
 
-  <p>
-    Em vez de um profissional precisar coletar informações manualmente de diferentes sistemas,
-    copiar dados para planilhas e atualizar gráficos todos os dias, processos automatizados
-    podem realizar parte desse trabalho.
-  </p>
+              <p>
+                Algumas instituições continuam produzindo determinados documentos simplesmente porque sempre
+                foram produzidos daquela maneira.
+              </p>
 
-  <p>
-    A automatização pode reduzir:
-  </p>
+              <p>
+                Isso gera trabalho desnecessário e pode consumir horas dos profissionais responsáveis pela
+                extração e organização dessas informações.
+              </p>
 
-  <ul>
-    <li>Digitação manual;</li>
-    <li>Erros de transcrição;</li>
-    <li>Retrabalho;</li>
-    <li>Tempo gasto na preparação dos relatórios;</li>
-    <li>Duplicidade de informações;</li>
-    <li>Dependência de processos manuais.</li>
-  </ul>
+              <p>
+                Periodicamente, é importante avaliar:
+              </p>
 
-  <p>
-    Com isso, os profissionais podem dedicar mais tempo à análise das informações e menos tempo
-    à preparação manual dos dados.
-  </p>
+              <ul>
+                <li>Quais relatórios realmente são utilizados?</li>
+                <li>Quem utiliza cada relatório?</li>
+                <li>Qual decisão ele ajuda a tomar?</li>
+                <li>Os dados apresentados ainda são necessários?</li>
+                <li>É possível automatizar sua geração?</li>
+                <li>Existem relatórios duplicados?</li>
+                <li>Existe alguma informação importante que ainda não está sendo acompanhada?</li>
+              </ul>
+
+              <p>
+                Dessa forma, a instituição consegue reduzir relatórios desnecessários e concentrar esforços
+                naquilo que realmente produz valor.
+              </p>
+
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Do relatório para a análise</a>
+                <a href="?page=blog">Automatização de relatórios</a>
               </h2>
               <p>
-    Um dos grandes avanços na gestão baseada em dados é deixar de produzir relatórios apenas para
-    mostrar o que aconteceu e começar a utilizá-los para compreender <strong>por que aconteceu</strong>.
-  </p>
+                A tecnologia também permite automatizar grande parte do processo de geração de relatórios.
+              </p>
 
-  <p>
-    Um relatório tradicional pode informar que determinado indicador aumentou.
-  </p>
+              <p>
+                Em vez de um profissional precisar coletar informações manualmente de diferentes sistemas,
+                copiar dados para planilhas e atualizar gráficos todos os dias, processos automatizados
+                podem realizar parte desse trabalho.
+              </p>
 
-  <p>
-    Uma análise mais aprofundada procura entender quais fatores contribuíram para esse aumento.
-  </p>
+              <p>
+                A automatização pode reduzir:
+              </p>
 
-  <p>
-    Essa mudança transforma o relatório em uma ferramenta de investigação e gestão.
-  </p>
+              <ul>
+                <li>Digitação manual;</li>
+                <li>Erros de transcrição;</li>
+                <li>Retrabalho;</li>
+                <li>Tempo gasto na preparação dos relatórios;</li>
+                <li>Duplicidade de informações;</li>
+                <li>Dependência de processos manuais.</li>
+              </ul>
 
-  <p>
-    O objetivo passa a ser:
-    <strong>identificar o problema, compreender suas causas, avaliar seu impacto e buscar uma
-    solução.</strong>
-  </p>
+              <p>
+                Com isso, os profissionais podem dedicar mais tempo à análise das informações e menos tempo
+                à preparação manual dos dados.
+              </p>
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Dados, relatórios e melhoria contínua</a>
+                <a href="?page=blog">Do relatório para a análise</a>
               </h2>
               <p>
-    A análise de dados deve fazer parte de um ciclo contínuo de melhoria.
-  </p>
+                Um dos grandes avanços na gestão baseada em dados é deixar de produzir relatórios apenas para
+                mostrar o que aconteceu e começar a utilizá-los para compreender <strong>por que aconteceu</strong>.
+              </p>
 
-  <p>
-    A instituição coleta os dados, organiza as informações, analisa os resultados, identifica
-    problemas, implementa melhorias e acompanha novamente os indicadores para verificar se as
-    mudanças produziram resultados.
-  </p>
+              <p>
+                Um relatório tradicional pode informar que determinado indicador aumentou.
+              </p>
 
-  <p>
-    Esse ciclo pode ser representado de maneira simples:
-  </p>
+              <p>
+                Uma análise mais aprofundada procura entender quais fatores contribuíram para esse aumento.
+              </p>
 
-  <ul>
-    <li><strong>Coletar:</strong> registrar corretamente os dados;</li>
-    <li><strong>Organizar:</strong> estruturar e padronizar as informações;</li>
-    <li><strong>Analisar:</strong> identificar padrões, problemas e oportunidades;</li>
-    <li><strong>Decidir:</strong> definir ações com base nas evidências;</li>
-    <li><strong>Implementar:</strong> executar as melhorias;</li>
-    <li><strong>Acompanhar:</strong> verificar os resultados obtidos;</li>
-    <li><strong>Melhorar:</strong> ajustar novamente os processos quando necessário.</li>
-  </ul>
+              <p>
+                Essa mudança transforma o relatório em uma ferramenta de investigação e gestão.
+              </p>
 
-  <p>
-    Dessa forma, os dados deixam de ser apenas registros históricos e passam a participar
-    ativamente da gestão da instituição.
-  </p>
+              <p>
+                O objetivo passa a ser:
+                <strong>identificar o problema, compreender suas causas, avaliar seu impacto e buscar uma
+                  solução.</strong>
+              </p>
+            </article>
+
+            <article class="entry">
+
+              <h2 class="entry-title">
+                <a href="?page=blog">Dados, relatórios e melhoria contínua</a>
+              </h2>
+              <p>
+                A análise de dados deve fazer parte de um ciclo contínuo de melhoria.
+              </p>
+
+              <p>
+                A instituição coleta os dados, organiza as informações, analisa os resultados, identifica
+                problemas, implementa melhorias e acompanha novamente os indicadores para verificar se as
+                mudanças produziram resultados.
+              </p>
+
+              <p>
+                Esse ciclo pode ser representado de maneira simples:
+              </p>
+
+              <ul>
+                <li><strong>Coletar:</strong> registrar corretamente os dados;</li>
+                <li><strong>Organizar:</strong> estruturar e padronizar as informações;</li>
+                <li><strong>Analisar:</strong> identificar padrões, problemas e oportunidades;</li>
+                <li><strong>Decidir:</strong> definir ações com base nas evidências;</li>
+                <li><strong>Implementar:</strong> executar as melhorias;</li>
+                <li><strong>Acompanhar:</strong> verificar os resultados obtidos;</li>
+                <li><strong>Melhorar:</strong> ajustar novamente os processos quando necessário.</li>
+              </ul>
+
+              <p>
+                Dessa forma, os dados deixam de ser apenas registros históricos e passam a participar
+                ativamente da gestão da instituição.
+              </p>
 
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">O papel dos profissionais na qualidade dos dados</a>
+                <a href="?page=blog">O papel dos profissionais na qualidade dos dados</a>
               </h2>
-                <p>
-    A qualidade dos dados não depende exclusivamente do setor de tecnologia ou da equipe
-    responsável pelos relatórios.
-  </p>
+              <p>
+                A qualidade dos dados não depende exclusivamente do setor de tecnologia ou da equipe
+                responsável pelos relatórios.
+              </p>
 
-  <p>
-    Todos os profissionais que registram informações participam desse processo.
-  </p>
+              <p>
+                Todos os profissionais que registram informações participam desse processo.
+              </p>
 
-  <p>
-    A recepção, a enfermagem, os médicos, o laboratório, o faturamento, a farmácia, o
-    administrativo e os demais setores produzem informações que posteriormente poderão ser
-    utilizadas pela gestão.
-  </p>
+              <p>
+                A recepção, a enfermagem, os médicos, o laboratório, o faturamento, a farmácia, o
+                administrativo e os demais setores produzem informações que posteriormente poderão ser
+                utilizadas pela gestão.
+              </p>
 
-  <p>
-    Por isso, cada profissional precisa compreender que <strong>um registro realizado
-    corretamente pode fazer parte de uma decisão futura</strong>.
-  </p>
+              <p>
+                Por isso, cada profissional precisa compreender que <strong>um registro realizado
+                  corretamente pode fazer parte de uma decisão futura</strong>.
+              </p>
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Dados e relatórios como ferramentas estratégicas</a>
+                <a href="?page=blog">Dados e relatórios como ferramentas estratégicas</a>
               </h2>
-            <p>
-    Quando uma instituição possui dados confiáveis, processos organizados e relatórios bem
-    estruturados, ela consegue enxergar sua própria operação com muito mais clareza.
-  </p>
+              <p>
+                Quando uma instituição possui dados confiáveis, processos organizados e relatórios bem
+                estruturados, ela consegue enxergar sua própria operação com muito mais clareza.
+              </p>
 
-  <p>
-    Isso permite identificar onde estão os gargalos, quais setores precisam de atenção, quais
-    processos apresentam melhores resultados e onde existem oportunidades de melhoria.
-  </p>
+              <p>
+                Isso permite identificar onde estão os gargalos, quais setores precisam de atenção, quais
+                processos apresentam melhores resultados e onde existem oportunidades de melhoria.
+              </p>
 
-  <p>
-    A gestão passa a possuir uma visão mais ampla da instituição e consegue direcionar recursos,
-    pessoas e investimentos de maneira mais consciente.
-  </p>
+              <p>
+                A gestão passa a possuir uma visão mais ampla da instituição e consegue direcionar recursos,
+                pessoas e investimentos de maneira mais consciente.
+              </p>
 
-  <p>
-    Dessa forma, os dados passam a ser um ativo estratégico da organização.
-  </p>
+              <p>
+                Dessa forma, os dados passam a ser um ativo estratégico da organização.
+              </p>
 
             </article>
 
             <article class="entry">
-              <div class="entry-img">
-                <img src="../assets/img/saude/cadsus.jpg" alt="" class="img-fluid">
-              </div>
+
               <h2 class="entry-title">
-                <a href="blog-single.html">Conclusão</a>
+                <a href="?page=blog">Conclusão</a>
               </h2>
-            <p>
-    Dados e relatórios são elementos fundamentais para uma gestão hospitalar moderna. Eles
-    permitem transformar os registros produzidos diariamente pelos setores em informações que
-    podem apoiar decisões, identificar problemas e melhorar processos.
-  </p>
+              <p>
+                Dados e relatórios são elementos fundamentais para uma gestão hospitalar moderna. Eles
+                permitem transformar os registros produzidos diariamente pelos setores em informações que
+                podem apoiar decisões, identificar problemas e melhorar processos.
+              </p>
 
-  <p>
-    Entretanto, o simples fato de possuir sistemas, planilhas ou relatórios não significa que
-    uma instituição esteja realmente trabalhando com dados.
-  </p>
+              <p>
+                Entretanto, o simples fato de possuir sistemas, planilhas ou relatórios não significa que
+                uma instituição esteja realmente trabalhando com dados.
+              </p>
 
-  <p>
-    É necessário garantir qualidade, padronização, organização, análise e utilização das
-    informações.
-  </p>
+              <p>
+                É necessário garantir qualidade, padronização, organização, análise e utilização das
+                informações.
+              </p>
 
-  <p>
-    Um bom relatório não deve apenas mostrar números. Ele deve ajudar a responder perguntas,
-    identificar problemas e apoiar decisões.
-  </p>
+              <p>
+                Um bom relatório não deve apenas mostrar números. Ele deve ajudar a responder perguntas,
+                identificar problemas e apoiar decisões.
+              </p>
 
-  <p>
-    Da mesma forma, um bom indicador não deve existir apenas para preencher uma tabela. Ele deve
-    permitir acompanhar um processo e entender se os resultados estão melhorando ou piorando.
-  </p>
+              <p>
+                Da mesma forma, um bom indicador não deve existir apenas para preencher uma tabela. Ele deve
+                permitir acompanhar um processo e entender se os resultados estão melhorando ou piorando.
+              </p>
 
-  <p>
-    No final, o objetivo de trabalhar com dados e relatórios é transformar informações em
-    conhecimento e conhecimento em decisões melhores.
-  </p>
+              <p>
+                No final, o objetivo de trabalhar com dados e relatórios é transformar informações em
+                conhecimento e conhecimento em decisões melhores.
+              </p>
 
-  <p>
-    <strong>
-      Uma instituição de saúde que conhece seus dados consegue compreender melhor seus processos,
-      identificar seus problemas, acompanhar seus resultados e tomar decisões mais conscientes.
-    </strong>
-  </p>
+              <p>
+                <strong>
+                  Uma instituição de saúde que conhece seus dados consegue compreender melhor seus processos,
+                  identificar seus problemas, acompanhar seus resultados e tomar decisões mais conscientes.
+                </strong>
+              </p>
 
-  <p>
-    Portanto, dados não devem ser vistos apenas como números armazenados em sistemas.
-    <strong>Dados bem organizados são instrumentos para melhorar a gestão, os processos e,
-    principalmente, a qualidade do atendimento ao paciente.</strong>
-  </p>
+              <p>
+                Portanto, dados não devem ser vistos apenas como números armazenados em sistemas.
+                <strong>Dados bem organizados são instrumentos para melhorar a gestão, os processos e,
+                  principalmente, a qualidade do atendimento ao paciente.</strong>
+              </p>
             </article>
 
           </div>
@@ -859,7 +813,7 @@
                 </ul>
               </div><!-- End sidebar categories-->
 
-              <h3 class="sidebar-title">Notícias Recentes</h3>
+              <h3 class="sidebar-title">Você também pode gostar disso:</h3>
 
               <div class="sidebar-item recent-posts">
                 <div class="post-item clearfix">

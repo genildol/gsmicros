@@ -618,7 +618,8 @@
 
           <div class="icon-box">
 
-            <i class="bi bi-hospital"></i>
+            <i class="bi bi-building"></i>
+            <!-- <i class="bi bi-diagram-3"></i> -->
 
             <h4>
               <a href="#">Tecnologia aplicada à Saúde</a>
@@ -708,8 +709,16 @@
         <div class="col-md-6 d-flex align-items-stretch">
           <div class="icon-box">
 
-            <i class="bis bi-hospital"></i>
-
+            <i class="bi bi-database-fill-add"></i>
+            <i class="bi bi-database-check"></i>
+            <i class="bi bi-database-add"></i>
+            <i class="bi bi-database-dash"></i>
+            <i class="bi bi-database-exclamation"></i>
+            <i class="bi bi-database-fill-check"></i>
+            <i class="bi bi-database-fill-dash"></i>
+            <i class="bi bi-database-slash"></i>
+            <i class="bi bi-database-x"></i>
+            <!-- <img src="/node_modules/bootstrap-icons/icons/database-check.svg" alt="" width="50px" height="50px"> -->
             <h4>
               <a href="#">BaseClin</a>
             </h4>
