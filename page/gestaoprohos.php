@@ -164,7 +164,7 @@
             <article class="entry" id="fluxoatendimento">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/fluxoatendimento.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/fluxoatendimento.png" alt="Melhoria de fluxo de atendimento" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -262,7 +262,7 @@
             <article class="entry" id="controledemandas">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/controledemandas.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/controledemandas.png" alt="Controle de Demandas" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -351,7 +351,7 @@
             <article class="entry" id="padronizacao">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/padronizacao.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/padronizacao.png" alt="Padronização de processos" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -442,7 +442,7 @@
             <article class="entry" id="comunicacao">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/comunicacao.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/comunicacao.png" alt="Comunicação entre equipes" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -540,7 +540,7 @@
             <article class="entry" id="retrabalho">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/retrabalho.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/retrabalho.png" alt="Redução de Retrabalho" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -614,7 +614,7 @@
 
             <article class="entry" id="eficienciaoperacional">
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/eficienciaoperacional.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/eficienciaoperacional.png" alt="Eficiência operacional na saúde" class="img-fluid">
               </div>
 
               <h2 class="entry-title">

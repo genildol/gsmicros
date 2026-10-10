@@ -25,7 +25,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/treinamentoeqs.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/treinamentoeqs.png" alt="Treinamento de Equipes" class="img-fluid">
               </div>
 
               <h2 class="entry-title">

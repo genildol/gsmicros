@@ -457,7 +457,7 @@
       <div class="row">
 
         <div class="col-lg-5 align-items-stretch position-relative video-box"
-          style='background-image: url("https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/gestaohospitalar.jpg");' data-aos="fade-right">
+          style='background-image: url("https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/gestaohospitalar.jpg");' data-aos="fade-right" alt="Tecnologia que entende a realidade do negócio">
           <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> -->
         </div>
 
@@ -690,7 +690,7 @@
   <!-- ======= Solutions Section ======= -->
   <section id="solutions" class="services">
 
-    <div class="container" data-aos="fade-up">
+    <div class="container" data-aos="fade-up" id="solucoes">
 
       <div class="section-title">
 

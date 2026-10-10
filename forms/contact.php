@@ -68,7 +68,7 @@ $corpo .= $mensagem;
 
 // O remetente pertence ao próprio domínio.
 // O Reply-To permite responder diretamente ao visitante.
-$headers = "From: GSMICROS <SEU_EMAIL_AQUI>\r\n";
+$headers = "From: GSMICROS <contato@gsmicros.com.br>\r\n";
 $headers .= "Reply-To: " . $email . "\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/plain; charset=UTF-8\r\n";

@@ -24,7 +24,7 @@
 
               <div class="entry-img" id="informatica">
 
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/bloglogo.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/bloglogo.png" alt="Gestão, Tecnologia e Conhecimento" class="img-fluid">
 
               </div>
 

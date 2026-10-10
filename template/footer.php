@@ -22,9 +22,9 @@
           <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="#services">Sistemas Hospitalares</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="?page=blog">Processos e Fluxos em Saúde</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Cadastro e SUS</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Treinamento de Equipes</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Soluções em Tecnologia Hospitalar</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="?page=implantacao">Cadastro e SUS</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="?page=treinamentoeqs">Treinamento de Equipes</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="?page=home#solucoes">Soluções em Tecnologia Hospitalar</a></li>
           </ul>
         </div>
 

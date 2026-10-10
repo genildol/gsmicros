@@ -25,7 +25,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/tecnologia.jpg" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/tecnologia.jpg" alt="Tecnologia e Sistemas na Área da Saúde" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -35,6 +35,7 @@
 
               <div class="entry-content">
                 <p>A tecnologia passou a ocupar um papel fundamental no funcionamento das instituições de saúde. Hospitais, clínicas, laboratórios, unidades de pronto atendimento e demais serviços de saúde dependem cada vez mais de sistemas informatizados para registrar informações, organizar processos, controlar recursos, acompanhar indicadores e apoiar profissionais na tomada de decisões.</p>
+                
                 <p>Entretanto, falar em tecnologia na saúde não significa apenas falar de computadores, sistemas ou equipamentos modernos. A verdadeira transformação acontece quando a tecnologia é utilizada de maneira correta e integrada aos processos da instituição.</p>
                 <p>Um hospital pode possuir excelentes sistemas, computadores modernos e uma grande quantidade de dados, mas ainda apresentar problemas de organização, retrabalho, informações incompletas e dificuldades de gestão se essas ferramentas não forem utilizadas adequadamente.</p>
 

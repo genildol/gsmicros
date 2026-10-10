@@ -25,7 +25,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/processhosp.png" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/processhosp.png" alt="Organização de Processos Hospitalares" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
@@ -227,7 +227,7 @@
 
               <strong>5. Melhoria contínua</strong>
               <p>Processos hospitalares devem ser revisados periodicamente para corrigir falhas e se adaptar às mudanças da instituição.</p>
-                <hr>
+              <hr>
               <h2 class="entry-title">
                 A importância da organização de processos para o paciente
               </h2>

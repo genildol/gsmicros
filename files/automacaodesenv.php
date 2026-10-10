@@ -1,15 +1,16 @@
   <main id="main">
+
     <head>
 
-    <meta
-      name="description"
-      content="Automação, desenvolvimento de sistemas, integração de dados e soluções tecnológicas para clínicas, hospitais e instituições de saúde.">
+      <meta
+        name="description"
+        content="Automação, desenvolvimento de sistemas, integração de dados e soluções tecnológicas para clínicas, hospitais e instituições de saúde.">
 
-    <title>Automação e Desenvolvimento na Área da Saúde | GSMICROS</title>
+      <title>Automação e Desenvolvimento na Área da Saúde | GSMICROS</title>
 
-    <meta
-      name="description"
-      content="Automação, desenvolvimento de sistemas, integração de dados e soluções tecnológicas para clínicas, hospitais e instituições de saúde.">
+      <meta
+        name="description"
+        content="Automação, desenvolvimento de sistemas, integração de dados e soluções tecnológicas para clínicas, hospitais e instituições de saúde.">
     </head>
 
     <!-- ======= Breadcrumbs ======= -->
@@ -37,11 +38,11 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="../assets/img/saude/cnesus.jpg" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/automacaodesenv.jpg" alt="Automação e Desenvolvimento na Área da Saúde" class="img-fluid">
               </div>
 
               <h2 class="entry-title">
-                <a href="blog.html">Automação e Desenvolvimento na Área da Saúde</a>
+                <a href="?">Automação e Desenvolvimento na Área da Saúde</a>
               </h2>
 
               <div class="entry-content">

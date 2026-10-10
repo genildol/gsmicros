@@ -25,7 +25,7 @@
             <article class="entry">
 
               <div class="entry-img">
-                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/dadosrelatorios.jpg" alt="" class="img-fluid">
+                <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/dadosrelatorios.jpg" alt="Dados e Relatórios na Área da Saúde" class="img-fluid">
               </div>
 
               <h2 class="entry-title">

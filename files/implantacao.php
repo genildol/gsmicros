@@ -177,7 +177,7 @@
                 </div>
 
                 <div class="post-item clearfix">
-                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/whatsapp.jpg" alt="">
+                  <img src="https://raw.githubusercontent.com/genildol/gsmicros/main/assets/img/whatsapp.jpg" alt="SGOP - Sistema de Gestão de Operadores (CADSUS WEB)">
                   <h4><a href="#whatsapp">O WhatsApp, da Meta, concordou em ser mais transparent</a></h4>
                   <div class="texto">
                     <h4>WhatsApp concorda em ser mais transparente com mudanças sobre políticas de privacidade, diz UE
