@@ -928,7 +928,7 @@
             <div class="email">
               <i class="bi bi-envelope"></i>
               <h4>Email:</h4>
-              <a href="mailto:gerente@gsmicros.com.br">
+              <a href="mailto:contato@gsmicros.com.br">
                 <p><strong>Envie um E-mail</strong></p>
               </a>
             </div>
