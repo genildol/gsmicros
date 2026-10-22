@@ -51,8 +51,8 @@
             <a href="https://www.instagram.com/gsmicros/" target="_blank"" class=" instagram"><i
                 class="bx bxl-instagram"></i></a>
 
-            <a href="https://www.genildosl.4trgt.pro" target="_blank"" class=" Site"><i
-                class="bx fas-globe"></i></a>
+            <!-- <a href="https://www.genildosl.4trgt.pro" target="_blank"" class=" Site"><i
+                class="bx fas-globe"></i></a> -->
 
             <a href="https://www.linkedin.com/company/gs-micros" target="_blank"" class=" linkedin"><i
                 class="bx bxl-linkedin"></i></a>
@@ -68,9 +68,10 @@
 
   <div class="container">
     <div class="copyright">
-      &copy; Copyright <strong><span>gsmicros</span></strong>. Todos os Direitos Reservados
+      <div>© <?= date('Y') ?>
+        &copy;<strong><span>GSMICROS</span></strong>. Todos os Direitos Reservados
+      </div>
+      <div class="credits">
+      </div>
     </div>
-    <div class="credits">
-    </div>
-  </div>
 </footer><!-- End Footer -->

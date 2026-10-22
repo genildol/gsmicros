@@ -30,13 +30,9 @@
                 Sua mensagem foi enviada com sucesso. Obrigado pelo contato.
 
                 <button type="button"
-                        class="close"
-                        data-dismiss="alert"
-                        aria-label="Fechar">
-
-                    <span aria-hidden="true">&times;</span>
-
-                </button>
+                        class="btn-close"
+                        data-bs-dismiss="alert"
+                        aria-label="Fechar"></button>
             </div>
         `;
 
@@ -55,13 +51,9 @@
                 Tente novamente mais tarde.
 
                 <button type="button"
-                        class="close"
-                        data-dismiss="alert"
-                        aria-label="Fechar">
-
-                    <span aria-hidden="true">&times;</span>
-
-                </button>
+                        class="btn-close"
+                        data-bs-dismiss="alert"
+                        aria-label="Fechar"></button>
             </div>
         `;
 
@@ -79,13 +71,9 @@
                 Preencha todos os campos antes de enviar.
 
                 <button type="button"
-                        class="close"
-                        data-dismiss="alert"
-                        aria-label="Fechar">
-
-                    <span aria-hidden="true">&times;</span>
-
-                </button>
+                        class="btn-close"
+                        data-bs-dismiss="alert"
+                        aria-label="Fechar"></button>
             </div>
         `;
 
@@ -103,13 +91,9 @@
                 Informe um endereço de e-mail válido.
 
                 <button type="button"
-                        class="close"
-                        data-dismiss="alert"
-                        aria-label="Fechar">
-
-                    <span aria-hidden="true">&times;</span>
-
-                </button>
+                        class="btn-close"
+                        data-bs-dismiss="alert"
+                        aria-label="Fechar"></button>
             </div>
         `;
 
@@ -139,119 +123,243 @@
     "url": "https://www.gsmicros.com.br/"
   }
 </script>
-<title>GSMICROS | Tecnologia, dados e processos para transformar desafios em soluções</title>
+<style>
+  .bc-icon {
+    display: inline-grid;
+    place-items: center;
+    width: 3.1rem;
+    height: 3.1rem;
+    border-radius: 1rem;
+    background: #e7f7f7;
+    color: #087f91;
+    font-size: 1.4rem;
+  }
+</style>
+<style>
+  /* Melhorias visuais locais: preservam o template principal da GSMICROS. */
+  #hero .carousel-container h2 {
+    max-width: 900px;
+    text-wrap: balance;
+  }
+
+  #hero .carousel-container p {
+    max-width: 760px;
+    line-height: 1.75;
+  }
+
+  #icon-boxes .icon-box,
+  #services .icon-box,
+  #solutions .icon-box {
+    height: 100%;
+    transition: transform .22s ease, box-shadow .22s ease;
+  }
+
+  #icon-boxes .icon-box:hover,
+  #services .icon-box:hover,
+  #solutions .icon-box:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 30px rgba(12, 49, 76, .10);
+  }
+
+  #services .icon-box h4 a,
+  #solutions .icon-box h4 a {
+    text-decoration: none;
+  }
+
+  /* Botões das soluções: aparência consistente e interação discreta. */
+  #solutions .solution-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: .45rem;
+    width: fit-content;
+    max-width: 100%;
+    margin-top: 1rem;
+    padding: .7rem 1rem;
+    border-radius: .55rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: transform .18s ease, box-shadow .18s ease, background-color .18s ease;
+  }
+
+  #solutions .solution-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(12, 49, 76, .14);
+  }
+
+  #solutions .solution-btn:focus-visible,
+  #services a:focus-visible,
+  #icon-boxes a:focus-visible {
+    outline: 3px solid rgba(13, 110, 253, .45);
+    outline-offset: 3px;
+  }
+
+  #solutions .bc-icon {
+    margin-bottom: .85rem;
+    transition: transform .2s ease;
+  }
+
+  #solutions .icon-box:hover .bc-icon {
+    transform: scale(1.04);
+  }
+
+  #contact form .form-group {
+    margin-bottom: 1rem;
+  }
+
+  #contact form label {
+    display: inline-block;
+    margin-bottom: .4rem;
+    font-weight: 600;
+  }
+
+  #contact form .form-control {
+    min-height: 46px;
+    border-radius: .5rem;
+  }
+
+  #contact form textarea.form-control {
+    min-height: 140px;
+  }
+
+  #contact form .btn[type="submit"] {
+    min-height: 46px;
+    padding-inline: 1.5rem;
+    border-radius: .5rem;
+  }
+
+  #contact-alert:empty {
+    display: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+
+    #icon-boxes .icon-box,
+    #services .icon-box,
+    #solutions .icon-box {
+      transition: none;
+    }
+
+    #icon-boxes .icon-box:hover,
+    #services .icon-box:hover,
+    #solutions .icon-box:hover,
+    #solutions .solution-btn:hover,
+    #solutions .icon-box:hover .bc-icon {
+      transform: none;
+    }
+
+    #solutions .solution-btn {
+      transition: none;
+    }
+  }
+</style>
+<title>GSMICROS | Tecnologia, dados, automação e gestão de processos</title>
 
 <meta name="description"
-  content="GSMICROS: tecnologia, sistemas, dados, automação e organização de processos, com experiência prática em tecnologia aplicada à saúde.">
+  content="GSMICROS oferece soluções em tecnologia, sistemas, dados, automação e organização de processos, com foco em tecnologia aplicada à saúde e gestão hospitalar.">
 
 <link rel="canonical" href="https://www.gsmicros.com.br/">
 
-<section id="hero" class="d-flex justify-cntent-center align-items-center">
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex justify-content-center align-items-center">
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex justify-content-center align-items-center">
 
-    <div id="heroCarousel"
-      data-bs-interval="5000"
-      class="container carousel carousel-fade"
-      data-bs-ride="carousel">
+  <div id="heroCarousel"
+    data-bs-interval="5000"
+    class="container carousel carousel-fade"
+    data-bs-ride="carousel">
 
-      <!-- Slide 1 -->
-      <div class="carousel-item active">
+    <!-- Slide 1 -->
+    <div class="carousel-item active">
 
-        <div class="carousel-container">
+      <div class="carousel-container">
 
-          <h2 class="animate__animated animate__fadeInDown">
-            Tecnologia, dados e processos para transformar desafios em soluções.
-          </h2>
+        <h2 class="animate__animated animate__fadeInDown">
+          Tecnologia, dados e gestão para melhorar processos e gerar resultados.
+        </h2>
 
-          <p class="animate__animated animate__fadeInUp">
-            Soluções em tecnologia, sistemas, dados, automação e processos
-            para empresas, profissionais e organizações.
-          </p>
+        <p class="animate__animated animate__fadeInUp">
+          Aproximamos tecnologia da realidade das organizações com sistemas, análise de dados, automação e melhoria de processos.
+        </p>
 
-          <a href="#services"
-            class="btn-get-started animate__animated animate__fadeInUp scrollto">
-            Conheça nossos serviços
-          </a>
-
-        </div>
+        <a href="#services"
+          class="btn-get-started animate__animated animate__fadeInUp scrollto">
+          Conheça nossos serviços
+        </a>
 
       </div>
-
-
-      <!-- Slide 2 -->
-      <div class="carousel-item">
-
-        <div class="carousel-container">
-
-          <h2 class="animate__animated animate__fadeInDown">
-            Tecnologia aplicada à realidade da saúde
-          </h2>
-
-          <p class="animate__animated animate__fadeInUp">
-            Experiência prática em sistemas hospitalares, SUS,
-            processos, dados e gestão.
-          </p>
-
-          <a href="#about"
-            class="btn-get-started animate__animated animate__fadeInUp scrollto">
-            Conheça a GSMICROS
-          </a>
-
-        </div>
-
-      </div>
-
-
-      <!-- Slide 3 -->
-      <div class="carousel-item">
-
-        <div class="carousel-container">
-
-          <h2 class="animate__animated animate__fadeInDown">
-            Transformando ideias em soluções
-          </h2>
-
-          <p class="animate__animated animate__fadeInUp">
-            Desenvolvimento de sistemas, automação e ferramentas
-            para resolver problemas reais.
-          </p>
-
-          <a href="#contact"
-            class="btn-get-started animate__animated animate__fadeInUp scrollto">
-            Fale conosco
-          </a>
-
-        </div>
-
-      </div>
-
-
-      <!-- Controles -->
-      <a class="carousel-control-prev"
-        href="#heroCarousel"
-        role="button"
-        data-bs-slide="prev">
-
-        <span class="carousel-control-prev-icon bx bx-chevron-left"
-          aria-hidden="true"></span>
-
-      </a>
-
-      <a class="carousel-control-next"
-        href="#heroCarousel"
-        role="button"
-        data-bs-slide="next">
-
-        <span class="carousel-control-next-icon bx bx-chevron-right"
-          aria-hidden="true"></span>
-
-      </a>
 
     </div>
 
-  </section>
-  <!-- End Hero -->
+
+    <!-- Slide 2 -->
+    <div class="carousel-item">
+
+      <div class="carousel-container">
+
+        <h2 class="animate__animated animate__fadeInDown">
+          Tecnologia que entende a realidade da saúde
+        </h2>
+
+        <p class="animate__animated animate__fadeInUp">
+          Apoio em sistemas hospitalares, informações do SUS, organização de processos e uso inteligente de dados.
+        </p>
+
+        <a href="#about"
+          class="btn-get-started animate__animated animate__fadeInUp scrollto">
+          Conheça a GSMICROS
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <!-- Slide 3 -->
+    <div class="carousel-item">
+
+      <div class="carousel-container">
+
+        <h2 class="animate__animated animate__fadeInDown">
+          Soluções construídas a partir de necessidades reais
+        </h2>
+
+        <p class="animate__animated animate__fadeInUp">
+          Desenvolvimento e automação orientados a simplificar rotinas e apoiar o trabalho das equipes.
+        </p>
+
+        <a href="#contact"
+          class="btn-get-started animate__animated animate__fadeInUp scrollto">
+          Fale conosco
+        </a>
+
+      </div>
+
+    </div>
+
+
+    <!-- Controles -->
+    <a class="carousel-control-prev"
+      href="#heroCarousel"
+      role="button"
+      data-bs-slide="prev">
+
+      <span class="carousel-control-prev-icon bx bx-chevron-left"
+        aria-hidden="true"></span>
+
+    </a>
+
+    <a class="carousel-control-next"
+      href="#heroCarousel"
+      role="button"
+      data-bs-slide="next">
+
+      <span class="carousel-control-next-icon bx bx-chevron-right"
+        aria-hidden="true"></span>
+
+    </a>
+
+  </div>
+
 </section>
 <!-- End Hero -->
 
@@ -265,7 +373,7 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up">
           <div class="icon-box">
             <div class="icon"><i class="bi bi-pc-display-horizontal"></i></div>
-            <h4 class="title"><a href="">Tecnologia e Sistemas</a></h4>
+            <h4 class="title"><a href="#services">Tecnologia e Sistemas</a></h4>
             <p class="description">Soluções tecnológicas para otimizar processos e melhorar a eficiência hospitalar</p>
           </div>
         </div>
@@ -273,8 +381,8 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up"
           data-aos-delay="100">
           <div class="icon-box">
-            <div class="icon"><i class="bi bi-credit-card-2-front"></i></div>
-            <h4 class="title"><a href="">Dados e Indicadores</a></h4>
+            <div class="icon"><i class="bi bi-graph-up-arrow"></i></div>
+            <h4 class="title"><a href="#services">Dados e Indicadores</a></h4>
             <p class="description">Análise e interpretação de dados para tomada de decisão estratégica e melhoria contínua dos serviços hospitalares</p>
           </div>
         </div>
@@ -282,8 +390,8 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up"
           data-aos-delay="200">
           <div class="icon-box">
-            <div class="icon"><i class="bi bi-gear"></i></div>
-            <h4 class="title"><a href="">Saúde e Processos</a></h4>
+            <div class="icon"><i class="bi bi-diagram-3"></i></div>
+            <h4 class="title"><a href="#services">Saúde e Processos</a></h4>
             <p class="description">Otimização de processos e melhoria contínua dos serviços hospitalares</p>
           </div>
         </div>
@@ -291,8 +399,8 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up"
           data-aos-delay="300">
           <div class="icon-box">
-            <div class="icon"><i class="bi bi-people-fill"></i></div>
-            <h4 class="title"><a href="">Desenvolvimento e Automação</a></h4>
+            <div class="icon"><i class="bi bi-code-slash"></i></div>
+            <h4 class="title"><a href="#services">Desenvolvimento e Automação</a></h4>
             <p class="description">Desenvolvimento de soluções e automação de processos para melhorar a eficiência hospitalar</p>
           </div>
         </div>
@@ -531,9 +639,7 @@
         <h2>Serviços</h2>
 
         <p>
-          Soluções em tecnologia, dados e processos para organizações
-          que buscam melhorar sua operação, organizar informações e
-          utilizar melhor seus sistemas.
+          Apoio prático para organizar processos, aproveitar melhor os sistemas e transformar informações em conhecimento útil para a gestão.
         </p>
 
       </div>
@@ -549,10 +655,10 @@
 
           <div class="icon-box">
 
-            <i class="bi bi-laptop"></i>
+            <i class="bi bi-pc-display" aria-hidden="true"></i>
 
             <h4>
-              <a href="#">Tecnologia e Sistemas</a>
+              <a href="#contact">Tecnologia e Sistemas</a>
             </h4>
 
             <p>
@@ -572,10 +678,10 @@
 
           <div class="icon-box">
 
-            <i class="bi bi-bar-chart-line"></i>
+            <i class="bi bi-graph-up-arrow" aria-hidden="true"></i>
 
             <h4>
-              <a href="#">Dados e Relatórios</a>
+              <a href="#contact">Dados e Relatórios</a>
             </h4>
 
             <p>Organização, consolidação e análise de dados para criação de relatórios,
@@ -597,7 +703,7 @@
             <i class="bi bi-diagram-3"></i>
 
             <h4>
-              <a href="#">Processos e Gestão</a>
+              <a href="#contact">Processos e Gestão</a>
             </h4>
 
             <p>
@@ -617,12 +723,10 @@
           data-aos-delay="400">
 
           <div class="icon-box">
-
-            <i class="bi bi-building"></i>
-            <!-- <i class="bi bi-diagram-3"></i> -->
+            <i class="bi bi-pc-display-horizontal"></i>
 
             <h4>
-              <a href="#">Tecnologia aplicada à Saúde</a>
+              <a href="#contact">Tecnologia aplicada à Saúde</a>
             </h4>
 
             <p>
@@ -645,7 +749,7 @@
             <i class="bi bi-code-slash"></i>
 
             <h4>
-              <a href="#">Automação e Desenvolvimento</a>
+              <a href="#contact">Automação e Desenvolvimento</a>
             </h4>
 
             <p>
@@ -668,7 +772,7 @@
             <i class="bi bi-gear-wide-connected"></i>
 
             <h4>
-              <a href="#">Automação de Processos</a>
+              <a href="#contact">Automação de Processos</a>
             </h4>
 
             <p>
@@ -709,20 +813,11 @@
         <div class="col-md-6 d-flex align-items-stretch">
           <div class="icon-box">
 
-            <i class="bi bi-database-fill-add"></i>
-            <i class="bi bi-database-check"></i>
-            <i class="bi bi-database-add"></i>
-            <i class="bi bi-database-dash"></i>
-            <i class="bi bi-database-exclamation"></i>
-            <i class="bi bi-database-fill-check"></i>
-            <i class="bi bi-database-fill-dash"></i>
-            <i class="bi bi-database-slash"></i>
-            <i class="bi bi-database-x"></i>
-            <!-- <img src="/node_modules/bootstrap-icons/icons/database-check.svg" alt="" width="50px" height="50px"> -->
-            <h4>
-              <a href="#">BaseClin</a>
-            </h4>
+            <i class="bi bi-building" aria-hidden="true"></i>
 
+            <h4>
+              <a href="?page=baseclin" aria-label="Abrir a página do BaseClin">BaseClin</a>
+            </h4>
             <p>
               Projeto voltado à consolidação, organização e análise
               de dados hospitalares, funcionando como uma camada
@@ -730,10 +825,10 @@
               e os dados utilizados para gestão e análise.
             </p>
 
-            <span class="badge bg-secondary">
+            <!-- <span class="badge bg-secondary">
               Em desenvolvimento
-            </span>
-
+            </span> -->
+            <a href="?page=baseclin" class="btn btn-primary solution-btn">Conheça o BaseClin <i class="bi bi-up-right" aria-hidden="true"></i></a>
           </div>
 
         </div>
@@ -744,10 +839,11 @@
 
           <div class="icon-box">
 
+            <!-- <i class="bi bi-clipboard-check" aria-hidden="true"></i> -->
             <i class="bi bi-clipboard-check"></i>
 
             <h4>
-              <a href="#">Follow-OS</a>
+              <a href="#contact">Follow-OS</a>
             </h4>
 
             <p>
@@ -756,9 +852,10 @@
               atividades realizadas em campo.
             </p>
 
-            <span class="badge bg-secondary">
+            <!-- <span class="badge bg-secondary">
               Em desenvolvimento
             </span>
+            <a class="btn btn-outline-primary solution-btn" href="#contact">Tenho interesse no Follow-OS <i class="bi bi-arrow-right" aria-hidden="true"></i></a> -->
 
           </div>
 
@@ -781,7 +878,7 @@
 
       <div class="faq-list">
         <ul>
-          <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
+          <li data-aos="fade-up" data-aos-delay="100">
             <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
               data-bs-target="#faq-list-1">Como a tecnologia pode melhorar o atendimento hospitalar? <i
                 class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
@@ -869,7 +966,7 @@
                 class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
             <div id="faq-list-8" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Sim, e a prevenção começa na origem do dado. Trabalho na organização dos processos e orientação das equipes para garantir que as informações sejam registradas corretamente desde o atendimento inicial.
+                A qualidade dos registros e o cumprimento das regras aplicáveis ajudam a reduzir inconsistências. O trabalho pode envolver revisão de processos, orientação das equipes e conferência das informações, conforme o escopo de cada instituição.
               </p>
             </div>
           </li>
