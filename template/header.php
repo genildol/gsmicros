@@ -61,6 +61,13 @@
 
               <ul>
 
+                <!-- BaseClin -->
+                <li>
+                  <a href="?page=baseclin">
+                    BaseClin
+                  </a>
+                </li>
+
                 <!-- CadSUS -->
                 <li>
                   <a href="?page=implantacao">
